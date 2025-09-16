@@ -1,12 +1,85 @@
 {
-  "ja": {
-    "uk_ipa": "/jɑː/",
-    "us_ipa": "/jɑː/",
+  "jab": {
+    "uk_ipa": "/dʒæb/",
+    "us_ipa": "/dʒæb/",
+    "examples": [
+      "She jabbed him in the ribs with her finger.",
+      "She jabbed her finger in his ribs.",
+      "He jabbed at the picture with his finger."
+    ],
+    "meanings": [
+      "To pierce or prod (someone or something) with or as if with a pointed object",
+      "To push or drive (something, such as a pointed object) quickly, abruptly, or forcefully:thrust",
+      "To strike (someone or something) with a short straight blow"
+    ],
+    "synonyms": [
+      "punch",
+      "poke",
+      "stab",
+      "lunge",
+      "push"
+    ],
+    "antonyms": []
+  },
+  "jabber": {
+    "uk_ipa": "/ˈdʒæbə(r)/",
+    "us_ipa": "/ˈdʒæbər/",
+    "examples": [
+      "What is he jabbering about now?"
+    ],
+    "meanings": [
+      "To talk rapidly, indistinctly, or unintelligibly",
+      "To speak rapidly or indistinctly",
+      "Gibberish,chatter"
+    ],
+    "synonyms": [
+      "babble",
+      "prattle",
+      "gabble",
+      "chatter",
+      "nonsense"
+    ],
+    "antonyms": [
+      "articulate",
+      "pronounce",
+      "enunciate"
+    ]
+  },
+  "jabberwocky": {
+    "uk_ipa": "/ˈdʒæbəwɒki/",
+    "us_ipa": "/ˈdʒæbərwɑːki/",
     "examples": [],
     "meanings": [
-      "joint account",
-      "judge advocate",
-      "judge advocate"
+      "Meaningless speech or writing",
+      "Meaningless speech or writing"
+    ],
+    "synonyms": [
+      "nonsense",
+      "babble",
+      "prattle",
+      "gabble",
+      "jabber"
+    ],
+    "antonyms": []
+  },
+  "jabot": {
+    "uk_ipa": "/ˈʒæbəʊ/",
+    "us_ipa": "/ˈʒæbəʊ/",
+    "examples": [],
+    "meanings": [
+      "A pleated frill of cloth or lace attached down the center front of a woman's blouse or dress",
+      "A fall of lace or cloth attached to the front of a neckband and worn especially by men in the 18th century",
+      "A ruffle of cloth or lace that falls from the collar down the front of a dress or shirt"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  "jacaranda": {
+    "uk_ipa": "/ˌdʒækəˈrændə/",
+    "us_ipa": "/ˌdʒækəˈrændə/",
+    "examples": [],
+    "meanings": [
+      "Any of a genus (jacaranda) of tropical american trees of the bignonia family with bipinnate leaves and panicles of showy usually blue flowers"
     ],
     "synonyms": [],
     "antonyms": []
@@ -19,9 +92,9 @@
       "You don't know jack."
     ],
     "meanings": [
-      "a game played with a set of small objects that are tossed, caught, and moved in various figures",
-      "a small 6-pointed metal object used in the game of jacks",
-      "a playing card carrying the figure of a soldier or servant and ranking usually below the queen"
+      "A game played with a set of small objects that are tossed, caught, and moved in various figures",
+      "A small 6-pointed metal object used in the game of jacks",
+      "A playing card carrying the figure of a soldier or servant and ranking usually below the queen"
     ],
     "synonyms": [
       "cash",
@@ -37,9 +110,86 @@
     "us_ipa": "/ˈdʒækl/",
     "examples": [],
     "meanings": [
-      "any of several small omnivorous canids (such asCanis aureus) of Africa and Asia having large ears, long legs, and bushy tails",
-      "a person who performs routine or menial tasks for another",
-      "a person who serves or collaborates with another especially in the commission of base acts"
+      "Any of several small omnivorous canids (such ascanis aureus) of africa and asia having large ears, long legs, and bushy tails",
+      "A person who performs routine or menial tasks for another",
+      "A person who serves or collaborates with another especially in the commission of base acts"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  "jackanapes": {
+    "uk_ipa": "/ˈdʒækəneɪps/",
+    "us_ipa": "/ˈdʒækəneɪps/",
+    "examples": [],
+    "meanings": [
+      "An impudent or conceited fellow",
+      "A saucy or mischievous child",
+      "Monkey,ape"
+    ],
+    "synonyms": [
+      "rascal",
+      "whippersnapper",
+      "rapscallion",
+      "tike",
+      "urchin"
+    ],
+    "antonyms": [
+      "adult",
+      "grown-up",
+      "elder",
+      "oldster",
+      "old-timer"
+    ]
+  },
+  "jackass": {
+    "uk_ipa": "/ˈdʒækæs/",
+    "us_ipa": "/ˈdʒækæs/",
+    "examples": [
+      "Careful, you jackass!"
+    ],
+    "meanings": [
+      "Donkey",
+      "A male donkey",
+      "A stupid, annoying, or detestable person"
+    ],
+    "synonyms": [
+      "fool",
+      "lunatic",
+      "idiot",
+      "moron",
+      "goose"
+    ],
+    "antonyms": [
+      "brain",
+      "genius",
+      "sage",
+      "thinker",
+      "genius"
+    ]
+  },
+  "jackboot": {
+    "uk_ipa": "/ˈdʒækbuːt/",
+    "us_ipa": "/ˈdʒækbuːt/",
+    "examples": [
+      "to be under the jackboot of a dictatorial regime",
+      "It was only a matter of time before the heel of the jackboot smashed down."
+    ],
+    "meanings": [
+      "A heavy military boot made of glossy black leather extending above the knee and worn especially during the 17th and 18th centuries",
+      "A laceless military boot reaching to the calf",
+      "The spirit or policy of militarism or totalitarianism"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  "jackdaw": {
+    "uk_ipa": "/ˈdʒækdɔː/",
+    "us_ipa": "/ˈdʒækdɔː/",
+    "examples": [],
+    "meanings": [
+      "Either of two common black and gray birds (corvus monedulaorc. dauuricus) of eurasia and northern africa that are related to but smaller than the carrion crow",
+      "Gracklesense 1",
+      "A common black and gray eurasian bird related to but smaller than the crows"
     ],
     "synonyms": [],
     "antonyms": []
@@ -53,9 +203,9 @@
       "a man in a black jacket and grey trousers"
     ],
     "meanings": [
-      "a garment for the upper body usually having a front opening, collar, lapels, sleeves, and pockets",
-      "something worn or fastened around the body but not for use as clothing",
-      "the natural covering of an animal"
+      "A garment for the upper body usually having a front opening, collar, lapels, sleeves, and pockets",
+      "Something worn or fastened around the body but not for use as clothing",
+      "The natural covering of an animal"
     ],
     "synonyms": [
       "sheath",
@@ -72,6 +222,50 @@
       "uncover"
     ]
   },
+  "jackfruit": {
+    "uk_ipa": "/ˈdʒækfruːt/",
+    "us_ipa": "/ˈdʒækfruːt/",
+    "examples": [],
+    "meanings": [
+      "A large tropical asian tree (artocarpus heterophyllus) related to the breadfruit that yields a fine-grained yellow wood and immense fruits which contain an edible pulp and nutritious seeds",
+      "Its fruit"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  "jackhammer": {
+    "uk_ipa": "/ˈdʒækhæmə(r)/",
+    "us_ipa": "/ˈdʒækhæmər/",
+    "examples": [],
+    "meanings": [
+      "A pneumatically operated percussive rock-drilling tool usually held in the hands",
+      "A device in which a tool (such as a chisel for breaking up pavements) is driven percussively by compressed air",
+      "A tool driven by compressed air that is used for drilling or breaking up hard substances (as rock or pavement) by a repeated pounding action"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  "jackknife": {
+    "uk_ipa": "/ˈdʒæknaɪf/",
+    "us_ipa": "/ˈdʒæknaɪf/",
+    "examples": [],
+    "meanings": [
+      "A large strong pocketknife",
+      "A dive executed headfirst in which the diver bends from the waist and touches the ankles while holding the knees unbent and then straightens out",
+      "To double up like a jackknife"
+    ],
+    "synonyms": [
+      "pocketknife",
+      "knife",
+      "dagger",
+      "switchblade",
+      "bayonet"
+    ],
+    "antonyms": [
+      "jump",
+      "leap"
+    ]
+  },
   "jackpot": {
     "uk_ipa": "/ˈdʒækpɒt/",
     "us_ipa": "/ˈdʒækpɑːt/",
@@ -81,9 +275,9 @@
       "United hit the jackpot (= were successful) with a 5–0 win over Liverpool."
     ],
     "meanings": [
-      "the top prize in a game or contest (such as a lottery) that is typically a large fund of money formed by the accumulation of unwon prizes",
-      "a hand or game of draw poker in which a pair ofjacksor better is required to open",
-      "a large pot (as in poker) formed by the accumulation of stakes from previous play"
+      "The top prize in a game or contest (such as a lottery) that is typically a large fund of money formed by the accumulation of unwon prizes",
+      "A hand or game of draw poker in which a pair ofjacksor better is required to open",
+      "A large pot (as in poker) formed by the accumulation of stakes from previous play"
     ],
     "synonyms": [
       "predicament",
@@ -94,6 +288,88 @@
     ],
     "antonyms": []
   },
+  "jackrabbit": {
+    "uk_ipa": "/ˈdʒækræbɪt/",
+    "us_ipa": "/ˈdʒækræbɪt/",
+    "examples": [],
+    "meanings": [
+      "Any of several large hares (genuslepus) of western north america having very long ears and long hind legs",
+      "Any of several large hares of western north america with very long ears and long hind legs"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  "jackson": {
+    "uk_ipa": "/ˈdʒæksən/",
+    "us_ipa": "/ˈdʒæksən/",
+    "examples": [],
+    "meanings": [
+      "Andrew 1767–1845 american general; 7th president of the u.s. (1829–37)",
+      "Helen (maria) hunt 1830–1885 néefiskeamerican novelist",
+      "Jesse (louis) 1941–     american clergyman and political activist"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  "jacksonville": {
+    "uk_ipa": "/ˈdʒæksənvɪl/",
+    "us_ipa": "/ˈdʒæksənvɪl/",
+    "examples": [],
+    "meanings": [
+      "City in central arkansas northeast of little rockpopulation28,364",
+      "City in northeastern florida near the mouth of the saint johns river; the state's most populous citypopulation821,784",
+      "City in eastern north carolinapopulation70,145"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  "jackstraws": {
+    "uk_ipa": "/ˈdʒækstrɔːz/",
+    "us_ipa": "/ˈdʒækstrɔːz/",
+    "examples": [],
+    "meanings": [
+      "A game in which a set of straws or thin strips is let fall in a heap with each player in turn trying to remove one at a time without disturbing the rest",
+      "One of the pieces used in the gamejackstraws",
+      "One of the pieces used in the game jackstraws"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  "jacob": {
+    "uk_ipa": "/ˈdʒeɪkəb/",
+    "us_ipa": "/ˈdʒeɪkəb/",
+    "examples": [],
+    "meanings": [
+      "A son of isaac and rebekah, the twin brother of esau, and heir of god's promise of blessing to abraham",
+      "The ancient hebrew nation"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  "jacobean": {
+    "uk_ipa": "/ˌdʒækəˈbiːən/",
+    "us_ipa": "/ˌdʒækəˈbiːən/",
+    "examples": [
+      "Jacobean drama"
+    ],
+    "meanings": [
+      "Of, relating to, or characteristic of james i of england or his age"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  "jacobite": {
+    "uk_ipa": "/ˈdʒækəbaɪt/",
+    "us_ipa": "/ˈdʒækəbaɪt/",
+    "examples": [],
+    "meanings": [
+      "A member of any of various monophysite eastern churches",
+      "A member of the monophysite syrian church",
+      "A partisan of james ii of england or of the stuarts after the revolution of 1688"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
   "jade": {
     "uk_ipa": "/dʒeɪd/",
     "us_ipa": "/dʒeɪd/",
@@ -102,9 +378,9 @@
       "a collection of Chinese jade"
     ],
     "meanings": [
-      "either of two tough compact typically green gemstones that take a high polish:",
-      "jadeite",
-      "nephrite"
+      "Either of two tough compact typically green gemstones that take a high polish:",
+      "Jadeite",
+      "Nephrite"
     ],
     "synonyms": [
       "bore",
@@ -129,8 +405,8 @@
       "It was a meal to tempt even the most jaded palate."
     ],
     "meanings": [
-      "fatigued by overwork:exhausted",
-      "made dull, apathetic, or cynical by experience or by having or seeing too much of something"
+      "Fatigued by overwork:exhausted",
+      "Made dull, apathetic, or cynical by experience or by having or seeing too much of something"
     ],
     "synonyms": [
       "tired",
@@ -147,6 +423,30 @@
       "relaxed"
     ]
   },
+  "jag": {
+    "uk_ipa": "/dʒæɡ/",
+    "us_ipa": "/dʒæɡ/",
+    "examples": [
+      "a crying jag"
+    ],
+    "meanings": [
+      "Spree",
+      "A state or feeling of exhilaration or intoxication usually induced by liquor",
+      "A small load"
+    ],
+    "synonyms": [
+      "spree",
+      "binge",
+      "pickup",
+      "renewal",
+      "recurrence"
+    ],
+    "antonyms": [
+      "slump",
+      "calm",
+      "doldrums"
+    ]
+  },
   "jagged": {
     "uk_ipa": "/ˈdʒæɡɪd/",
     "us_ipa": "/ˈdʒæɡɪd/",
@@ -154,9 +454,9 @@
       "jagged rocks/peaks/edges"
     ],
     "meanings": [
-      "having a sharply uneven edge or surface",
-      "having a harsh, rough, or irregular quality",
-      "having a sharp uneven edge or surface"
+      "Having a sharply uneven edge or surface",
+      "Having a harsh, rough, or irregular quality",
+      "Having a sharp uneven edge or surface"
     ],
     "synonyms": [
       "ragged",
@@ -173,13 +473,23 @@
       "even"
     ]
   },
+  "jaggery": {
+    "uk_ipa": "/ˈdʒæɡəri/",
+    "us_ipa": "/ˈdʒæɡəri/",
+    "examples": [],
+    "meanings": [
+      "An unrefined brown sugar made from palm sap"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
   "jaguar": {
     "uk_ipa": "/ˈdʒæɡjuə(r)/",
     "us_ipa": "/ˈdʒæɡwɑːr/",
     "examples": [],
     "meanings": [
-      "a large cat (Panthera onca) chiefly of Central and South America that is larger and stockier than the leopard and is brownish yellow or buff with black spots",
-      "a large yellowish brown black-spotted cat of tropical America that is larger and has a more solid build than the leopard"
+      "A large cat (panthera onca) chiefly of central and south america that is larger and stockier than the leopard and is brownish yellow or buff with black spots",
+      "A large yellowish brown black-spotted cat of tropical america that is larger and has a more solid build than the leopard"
     ],
     "synonyms": [],
     "antonyms": []
@@ -191,9 +501,55 @@
       "The whole crowd shouted ‘Jai Mahatma!’"
     ],
     "meanings": [
-      "a court game somewhat like handball played usually by two or four players with a ball and a long curved wicker basket strapped to the wrist"
+      "A court game somewhat like handball played usually by two or four players with a ball and a long curved wicker basket strapped to the wrist"
     ],
     "synonyms": [],
+    "antonyms": []
+  },
+  "jail": {
+    "uk_ipa": "/dʒeɪl/",
+    "us_ipa": "/dʒeɪl/",
+    "examples": [
+      "She spent a year in jail.",
+      "He has been released from jail.",
+      "a ten-year jail sentence"
+    ],
+    "meanings": [
+      "A place of confinement for persons held in lawful custody",
+      "Such a place under the jurisdiction of a local government (such as a county) for the confinement of persons awaiting trial or those convicted of minor crimescompareprison",
+      "Confinement in a jail"
+    ],
+    "synonyms": [
+      "prison",
+      "penitentiary",
+      "brig",
+      "jailhouse",
+      "slammer"
+    ],
+    "antonyms": [
+      "outside",
+      "free",
+      "release",
+      "liberate",
+      "discharge"
+    ]
+  },
+  "jailbird": {
+    "uk_ipa": "/ˈdʒeɪlbɜːd/",
+    "us_ipa": "/ˈdʒeɪlbɜːrd/",
+    "examples": [],
+    "meanings": [
+      "A person confined in jail",
+      "A habitual criminal",
+      "A person who is or is often in jail"
+    ],
+    "synonyms": [
+      "prisoner",
+      "inmate",
+      "convict",
+      "con",
+      "parolee"
+    ],
     "antonyms": []
   },
   "jailbreak": {
@@ -201,9 +557,9 @@
     "us_ipa": "/ˈdʒeɪlbreɪk/",
     "examples": [],
     "meanings": [
-      "a forcible escape from jail",
-      "to remove built-in limitations from (an electronic device, such as a cell phone)",
-      "an escape from jail by use of force"
+      "A forcible escape from jail",
+      "To remove built-in limitations from (an electronic device, such as a cell phone)",
+      "An escape from jail by use of force"
     ],
     "synonyms": [
       "flight",
@@ -225,9 +581,9 @@
     "us_ipa": "/ˈdʒeɪlər/",
     "examples": [],
     "meanings": [
-      "a keeper of a jail",
-      "one that restricts another's liberty as if by imprisonment",
-      "a keeper of a jail"
+      "A keeper of a jail",
+      "One that restricts another's liberty as if by imprisonment",
+      "A keeper of a jail"
     ],
     "synonyms": [
       "warden",
@@ -244,12 +600,54 @@
       "convict"
     ]
   },
+  "jailhouse": {
+    "uk_ipa": "/ˈdʒeɪlhaʊs/",
+    "us_ipa": "/ˈdʒeɪlhaʊs/",
+    "examples": [
+      "He became something of a jailhouse lawyer.",
+      "The jailhouse housed the sheriff and his family as well as the prisoners."
+    ],
+    "meanings": [
+      "Jailsense 1",
+      "Jail"
+    ],
+    "synonyms": [
+      "jail",
+      "prison",
+      "penitentiary",
+      "brig",
+      "stockade"
+    ],
+    "antonyms": [
+      "outside"
+    ]
+  },
+  "jain": {
+    "uk_ipa": "/dʒeɪn/",
+    "us_ipa": "/dʒeɪn/",
+    "examples": [],
+    "meanings": [
+      "An adherent ofjainism"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  "jainism": {
+    "uk_ipa": "/ˈdʒeɪnɪzəm/",
+    "us_ipa": "/ˈdʒeɪnɪzəm/",
+    "examples": [],
+    "meanings": [
+      "A religion of india originating in the sixth centuryb.c.and teaching liberation of the soul by right knowledge, right faith, and right conduct"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
   "jalapeno": {
     "uk_ipa": "/ˌhæləˈpeɪnjəʊ/",
     "us_ipa": "/ˌhɑːləˈpeɪnjəʊ/",
     "examples": [],
     "meanings": [
-      "a small plump dark green chili pepper of Mexico and the southern U.S."
+      "A small plump dark green chili pepper of mexico and the southern u.s."
     ],
     "synonyms": [],
     "antonyms": []
@@ -259,8 +657,8 @@
     "us_ipa": "/dʒəˈlɑːpi/",
     "examples": [],
     "meanings": [
-      "a dilapidated old vehicle (such as an automobile)",
-      "a worn-out old automobile"
+      "A dilapidated old vehicle (such as an automobile)",
+      "A worn-out old automobile"
     ],
     "synonyms": [
       "crate",
@@ -280,9 +678,9 @@
       "recipes for jams and preserves"
     ],
     "meanings": [
-      "a food made by boiling fruit and sugar to a thick consistency",
-      "to become blocked, wedged, or stuck fast",
-      "to become unworkable when a movable part becomes blocked or stuck"
+      "A food made by boiling fruit and sugar to a thick consistency",
+      "To become blocked, wedged, or stuck fast",
+      "To become unworkable when a movable part becomes blocked or stuck"
     ],
     "synonyms": [
       "snarl",
@@ -304,7 +702,7 @@
     "us_ipa": "/dʒəˈmeɪkə/",
     "examples": [],
     "meanings": [
-      "island of the West Indies in the Greater Antilles south of Cuba; a dominion of the Commonwealth of Nations since 1962; formerly a British colony; capital Kingstonarea4244 square miles (10,991 square kilometers),population2,812,000"
+      "Island of the west indies in the greater antilles south of cuba; a dominion of the commonwealth of nations since 1962; formerly a british colony; capital kingstonarea4244 square miles (10,991 square kilometers),population2,812,000"
     ],
     "synonyms": [],
     "antonyms": []
@@ -314,7 +712,7 @@
     "us_ipa": "/dʒəˈmeɪkən/",
     "examples": [],
     "meanings": [
-      "island of the West Indies in the Greater Antilles south of Cuba; a dominion of the Commonwealth of Nations since 1962; formerly a British colony; capital Kingstonarea4244 square miles (10,991 square kilometers),population2,812,000"
+      "Island of the west indies in the greater antilles south of cuba; a dominion of the commonwealth of nations since 1962; formerly a british colony; capital kingstonarea4244 square miles (10,991 square kilometers),population2,812,000"
     ],
     "synonyms": [],
     "antonyms": []
@@ -324,9 +722,9 @@
     "us_ipa": "/dʒæm/",
     "examples": [],
     "meanings": [
-      "an upright piece or surface forming the side of an opening (as for a door, window, or fireplace)",
-      "a projecting columnar part or mass",
-      "an upright piece forming the side of an opening (as of a door)"
+      "An upright piece or surface forming the side of an opening (as for a door, window, or fireplace)",
+      "A projecting columnar part or mass",
+      "An upright piece forming the side of an opening (as of a door)"
     ],
     "synonyms": [],
     "antonyms": []
@@ -336,9 +734,9 @@
     "us_ipa": "/ˌdʒæmbəˈlaɪə/",
     "examples": [],
     "meanings": [
-      "rice cooked usually with ham, sausage, chicken, shrimp, or oysters and seasoned with herbs",
-      "a mixture of diverse elements",
-      "rice cooked with ham, sausage, chicken, shrimps, or oysters and seasoned with herbs"
+      "Rice cooked usually with ham, sausage, chicken, shrimp, or oysters and seasoned with herbs",
+      "A mixture of diverse elements",
+      "Rice cooked with ham, sausage, chicken, shrimps, or oysters and seasoned with herbs"
     ],
     "synonyms": [
       "medley",
@@ -349,11 +747,97 @@
     ],
     "antonyms": []
   },
-  "jamie": {
-    "uk_ipa": "/ˈdʒeɪmi/",
-    "us_ipa": "/ˈdʒeɪmi/",
+  "jamboree": {
+    "uk_ipa": "/ˌdʒæmbəˈriː/",
+    "us_ipa": "/ˌdʒæmbəˈriː/",
+    "examples": [
+      "the movie industry’s annual jamboree at Cannes"
+    ],
+    "meanings": [
+      "A large festive gathering",
+      "A national or international camping assembly of boy scouts",
+      "A long mixed program of entertainment"
+    ],
+    "synonyms": [
+      "spree",
+      "drunk",
+      "binge",
+      "bender",
+      "carousal"
+    ],
+    "antonyms": []
+  },
+  "james": {
+    "uk_ipa": "/dʒeɪmz/",
+    "us_ipa": "/dʒeɪmz/",
     "examples": [],
-    "meanings": [],
+    "meanings": [
+      "An apostle, son of zebedee, and brother of the apostle john according to the gospel accounts",
+      "An apostle and son of alphaeus according to the gospel accounts",
+      "A brother of jesus traditionally held to be the author of the new testament epistle of james"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  "jamesian": {
+    "uk_ipa": "/ˈdʒeɪmziən/",
+    "us_ipa": "/ˈdʒeɪmziən/",
+    "examples": [],
+    "meanings": [
+      "An apostle, son of zebedee, and brother of the apostle john according to the gospel accounts",
+      "An apostle and son of alphaeus according to the gospel accounts",
+      "A brother of jesus traditionally held to be the author of the new testament epistle of james"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  "jamestown": {
+    "uk_ipa": "/ˈdʒeɪmztaʊn/",
+    "us_ipa": "/ˈdʒeɪmztaʊn/",
+    "examples": [],
+    "meanings": [
+      "City at the southern end of chautauqua lake in southwestern new yorkpopulation31,146",
+      "Ruined village in eastern virginia southwest of williamsburg on the james river"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  "jammed": {
+    "uk_ipa": "/dʒæmd/",
+    "us_ipa": "/dʒæmd/",
+    "examples": [
+      "I can't get the door open—it's completely jammed.",
+      "Hundreds more people were waiting outside the jammed stadium."
+    ],
+    "meanings": [
+      "A food made by boiling fruit and sugar to a thick consistency",
+      "To become blocked, wedged, or stuck fast",
+      "To become unworkable when a movable part becomes blocked or stuck"
+    ],
+    "synonyms": [
+      "filled",
+      "packed",
+      "bursting",
+      "crammed",
+      "crowded"
+    ],
+    "antonyms": [
+      "empty",
+      "devoid",
+      "blank",
+      "vacant",
+      "bare"
+    ]
+  },
+  "jammies": {
+    "uk_ipa": "/ˈdʒæmiz/",
+    "us_ipa": "/ˈdʒæmiz/",
+    "examples": [
+      "I was in my jammies, watching TV."
+    ],
+    "meanings": [
+      "Pajamassense 2"
+    ],
     "synonyms": [],
     "antonyms": []
   },
@@ -367,11 +851,14 @@
     "synonyms": [],
     "antonyms": []
   },
-  "janet": {
-    "uk_ipa": "/ˈdʒænɪt/",
-    "us_ipa": "/ˈdʒænɪt/",
+  "jane": {
+    "uk_ipa": "/dʒeɪn/",
+    "us_ipa": "/dʒeɪn/",
     "examples": [],
-    "meanings": [],
+    "meanings": [
+      "Girl,woman",
+      "A small genoese coin which circulated in england during the 14th and 15th centuries"
+    ],
     "synonyms": [],
     "antonyms": []
   },
@@ -384,9 +871,9 @@
       "He jangled the keys in his pocket."
     ],
     "meanings": [
-      "to make a harsh or discordant often ringing sound",
-      "to quarrel verbally",
-      "to talk idly"
+      "To make a harsh or discordant often ringing sound",
+      "To quarrel verbally",
+      "To talk idly"
     ],
     "synonyms": [
       "chatter",
@@ -406,9 +893,9 @@
     "us_ipa": "/ˈdʒænɪtər/",
     "examples": [],
     "meanings": [
-      "one who keeps the premises of a building (such as an apartment or office) clean, tends the heating system, and makes minor repairs",
-      "doorkeeper",
-      "doorkeeper"
+      "One who keeps the premises of a building (such as an apartment or office) clean, tends the heating system, and makes minor repairs",
+      "Doorkeeper",
+      "Doorkeeper"
     ],
     "synonyms": [
       "custodian",
@@ -419,14 +906,40 @@
     ],
     "antonyms": []
   },
+  "january": {
+    "uk_ipa": "/ˈdʒænjuəri/",
+    "us_ipa": "/ˈdʒænjueri/",
+    "examples": [
+      "She was born in January.",
+      "The meeting is on the fifth of January/January the fifth.",
+      "The meeting is on January fifth."
+    ],
+    "meanings": [
+      "The first month of the gregorian calendar",
+      "The first month of the year"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  "jap": {
+    "uk_ipa": "/dʒæp/",
+    "us_ipa": "/dʒæp/",
+    "examples": [],
+    "meanings": [
+      "Japanese",
+      "Jewish american princess"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
   "japan": {
     "uk_ipa": "/dʒəˈpæn/",
     "us_ipa": "/dʒəˈpæn/",
     "examples": [],
     "meanings": [
-      "of, relating to, or originating in Japan:of a kind or style characteristic of Japanese workmanship",
-      "any of several varnishes yielding a hard brilliant finish",
-      "a hard dark coating containing asphalt and a drier that is used especially on metal and fixed by heating"
+      "Of, relating to, or originating in japan:of a kind or style characteristic of japanese workmanship",
+      "Any of several varnishes yielding a hard brilliant finish",
+      "A hard dark coating containing asphalt and a drier that is used especially on metal and fixed by heating"
     ],
     "synonyms": [
       "coat",
@@ -442,13 +955,43 @@
       "scuff (up)"
     ]
   },
+  "japanese": {
+    "uk_ipa": "/ˌdʒæpəˈniːz/",
+    "us_ipa": "/ˌdʒæpəˈniːz/",
+    "examples": [],
+    "meanings": [
+      "A native or inhabitant ofjapan",
+      "A person of japanese descent",
+      "The language of the japanese"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  "jape": {
+    "uk_ipa": "/dʒeɪp/",
+    "us_ipa": "/dʒeɪp/",
+    "examples": [],
+    "meanings": [
+      "To say or do something jokingly or mockingly",
+      "To make mocking fun of",
+      "Something designed to arouse amusement or laughter: such as"
+    ],
+    "synonyms": [
+      "joke",
+      "laugh",
+      "joking",
+      "witticism",
+      "giggle"
+    ],
+    "antonyms": []
+  },
   "japonica": {
     "uk_ipa": "/dʒəˈpɒnɪkə/",
     "us_ipa": "/dʒəˈpɑːnɪkə/",
     "examples": [],
     "meanings": [
-      "japanese quince",
-      "seeschistosomiasis japonica"
+      "Japanese quince",
+      "Seeschistosomiasis japonica"
     ],
     "synonyms": [],
     "antonyms": []
@@ -462,9 +1005,9 @@
       "a water jar"
     ],
     "meanings": [
-      "a widemouthed container made typically ofearthenwareor glass",
-      "as much as a jar will hold",
-      "to have a harshly disagreeable or disconcerting effect"
+      "A widemouthed container made typically ofearthenwareor glass",
+      "As much as a jar will hold",
+      "To have a harshly disagreeable or disconcerting effect"
     ],
     "synonyms": [
       "collision",
@@ -489,9 +1032,9 @@
       "Try to avoid using too much technical jargon."
     ],
     "meanings": [
-      "the technical terminology or characteristic idiom of a special activity or group",
-      "obscure and often pretentious language marked bycircumlocutionsand long words",
-      "confused unintelligible language"
+      "The technical terminology or characteristic idiom of a special activity or group",
+      "Obscure and often pretentious language marked bycircumlocutionsand long words",
+      "Confused unintelligible language"
     ],
     "synonyms": [
       "terminology",
@@ -507,9 +1050,19 @@
     "us_ipa": "/ˈdʒæzmɪn/",
     "examples": [],
     "meanings": [
-      "any of numerous often climbing shrubs (genusJasminum) of the olive family that usually have extremely fragrant flowers",
-      "a tall-climbing semievergreen Asian shrub (J. officinale) with fragrant white flowers from which oil is extracted for use in perfumes",
-      "any of numerous plants having sweet-scented flowers"
+      "Any of numerous often climbing shrubs (genusjasminum) of the olive family that usually have extremely fragrant flowers",
+      "A tall-climbing semievergreen asian shrub (j. officinale) with fragrant white flowers from which oil is extracted for use in perfumes",
+      "Any of numerous plants having sweet-scented flowers"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  "jason": {
+    "uk_ipa": "/ˈdʒeɪsn/",
+    "us_ipa": "/ˈdʒeɪsn/",
+    "examples": [],
+    "meanings": [
+      "A legendary greek hero distinguished for his successful quest of the golden fleece"
     ],
     "synonyms": [],
     "antonyms": []
@@ -519,9 +1072,9 @@
     "us_ipa": "/ˈdʒæspər/",
     "examples": [],
     "meanings": [
-      "an opaque cryptocrystalline quartz of any of several colors",
-      "green chalcedony",
-      "colored stoneware with raised white decoration"
+      "An opaque cryptocrystalline quartz of any of several colors",
+      "Green chalcedony",
+      "Colored stoneware with raised white decoration"
     ],
     "synonyms": [],
     "antonyms": []
@@ -531,9 +1084,9 @@
     "us_ipa": "/ˈdʒɔːndɪs/",
     "examples": [],
     "meanings": [
-      "yellowish pigmentation of the skin, tissues, and body fluids caused by the deposition of bile pigments",
-      "a disease or abnormal condition characterized by jaundice",
-      "a state or attitude characterized by satiety, distaste, or hostility"
+      "Yellowish pigmentation of the skin, tissues, and body fluids caused by the deposition of bile pigments",
+      "A disease or abnormal condition characterized by jaundice",
+      "A state or attitude characterized by satiety, distaste, or hostility"
     ],
     "synonyms": [
       "hostility",
@@ -559,9 +1112,9 @@
       "a jaundiced patient/liver"
     ],
     "meanings": [
-      "affected with or as if withjaundice",
-      "exhibiting or influenced by envy, distaste, or hostility",
-      "affected with or as if with jaundice"
+      "Affected with or as if withjaundice",
+      "Exhibiting or influenced by envy, distaste, or hostility",
+      "Affected with or as if with jaundice"
     ],
     "synonyms": [
       "jealous",
@@ -583,9 +1136,9 @@
     "us_ipa": "/dʒɔːnt/",
     "examples": [],
     "meanings": [
-      "a usually short journey or excursion undertaken especially for pleasure",
-      "a tiring trip",
-      "to make a usually short journey for pleasure"
+      "A usually short journey or excursion undertaken especially for pleasure",
+      "A tiring trip",
+      "To make a usually short journey for pleasure"
     ],
     "synonyms": [
       "excursion",
@@ -604,9 +1157,9 @@
       "The tune needs to go fast and jauntily."
     ],
     "meanings": [
-      "sprightly in manner or appearance:lively",
-      "stylish",
-      "genteel"
+      "Sprightly in manner or appearance:lively",
+      "Stylish",
+      "Genteel"
     ],
     "synonyms": [
       "breezily",
@@ -623,6 +1176,30 @@
       "tardily"
     ]
   },
+  "jauntiness": {
+    "uk_ipa": "/ˈdʒɔːntinəs/",
+    "us_ipa": "/ˈdʒɔːntinəs/",
+    "examples": [],
+    "meanings": [
+      "Sprightly in manner or appearance:lively",
+      "Stylish",
+      "Genteel"
+    ],
+    "synonyms": [
+      "buoyancy",
+      "exuberance",
+      "briskness",
+      "springiness",
+      "liveliness"
+    ],
+    "antonyms": [
+      "inactivity",
+      "lifelessness",
+      "indolence",
+      "laziness",
+      "anemia"
+    ]
+  },
   "jaunty": {
     "uk_ipa": "/ˈdʒɔːnti/",
     "us_ipa": "/ˈdʒɔːnti/",
@@ -632,9 +1209,9 @@
       "a jaunty tune"
     ],
     "meanings": [
-      "sprightly in manner or appearance:lively",
-      "stylish",
-      "genteel"
+      "Sprightly in manner or appearance:lively",
+      "Stylish",
+      "Genteel"
     ],
     "synonyms": [
       "lively",
@@ -658,9 +1235,20 @@
       "Having that cup or two of java isn't going to hurt you."
     ],
     "meanings": [
-      "coffee",
-      "arabicacoffee beans of plants grown in Java, Indonesia that produce a usually full-bodied coffee of low to medium acidity",
-      "island of Indonesia in the Greater Sunda Islands southeast of Sumatra and south of Borneo between the Java Sea and the Indian Ocean; chief city Jakartaarea51,007 square miles (132,618 square kilometers),population107,581,306"
+      "Coffee",
+      "Arabicacoffee beans of plants grown in java, indonesia that produce a usually full-bodied coffee of low to medium acidity",
+      "Island of indonesia in the greater sunda islands southeast of sumatra and south of borneo between the java sea and the indian ocean; chief city jakartaarea51,007 square miles (132,618 square kilometers),population107,581,306"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  "javanese": {
+    "uk_ipa": "/ˌdʒɑːvəˈniːz/",
+    "us_ipa": "/ˌdʒɑːvəˈniːz/",
+    "examples": [],
+    "meanings": [
+      "A member of an indonesian people inhabiting the island of java",
+      "An austronesian language of the javanese people"
     ],
     "synonyms": [],
     "antonyms": []
@@ -672,9 +1260,9 @@
       "He hurled the javelin almost 100 metres."
     ],
     "meanings": [
-      "a light spear thrown as a weapon of war or in hunting",
-      "a slender usually metal shaft at least 260 centimeters long that is thrown for distance in an athletic field event",
-      "an athletic field event in which a javelin is thrown for distance"
+      "A light spear thrown as a weapon of war or in hunting",
+      "A slender usually metal shaft at least 260 centimeters long that is thrown for distance in an athletic field event",
+      "An athletic field event in which a javelin is thrown for distance"
     ],
     "synonyms": [
       "spear",
@@ -694,9 +1282,9 @@
       "She worked her lower jaw back and forth."
     ],
     "meanings": [
-      "either of two complex cartilaginous or bony structures in most vertebrates that border the mouth, support the soft parts enclosing it, usually bear teeth on their oral margin, and are an upper that is more or less firmly fused with the skull and a lower that is hinged, movable, and articulated with the temporal bone of either sidecomparemandible,maxilla",
-      "the parts constituting the walls of the mouth and serving to open and close it",
-      "any of various organs of invertebrates that perform the function of the vertebrate jaws"
+      "Either of two complex cartilaginous or bony structures in most vertebrates that border the mouth, support the soft parts enclosing it, usually bear teeth on their oral margin, and are an upper that is more or less firmly fused with the skull and a lower that is hinged, movable, and articulated with the temporal bone of either sidecomparemandible,maxilla",
+      "The parts constituting the walls of the mouth and serving to open and close it",
+      "Any of various organs of invertebrates that perform the function of the vertebrate jaws"
     ],
     "synonyms": [
       "chat",
@@ -713,14 +1301,50 @@
       "praise"
     ]
   },
+  "jawbone": {
+    "uk_ipa": "/ˈdʒɔːbəʊn/",
+    "us_ipa": "/ˈdʒɔːbəʊn/",
+    "examples": [],
+    "meanings": [
+      "Jawsense 1a",
+      "Mandible",
+      "To speak forcefully and persuasively to"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  "jaws": {
+    "uk_ipa": "/dʒɔːz/",
+    "us_ipa": "/dʒɔːz/",
+    "examples": [],
+    "meanings": [
+      "Either of two complex cartilaginous or bony structures in most vertebrates that border the mouth, support the soft parts enclosing it, usually bear teeth on their oral margin, and are an upper that is more or less firmly fused with the skull and a lower that is hinged, movable, and articulated with the temporal bone of either sidecomparemandible,maxilla",
+      "The parts constituting the walls of the mouth and serving to open and close it",
+      "Any of various organs of invertebrates that perform the function of the vertebrate jaws"
+    ],
+    "synonyms": [
+      "talks",
+      "chats",
+      "chatter",
+      "table talk",
+      "small talk"
+    ],
+    "antonyms": [
+      "sanctions",
+      "approves",
+      "indorses",
+      "endorses",
+      "praises"
+    ]
+  },
   "jay": {
     "uk_ipa": "/dʒeɪ/",
     "us_ipa": "/dʒeɪ/",
     "examples": [],
     "meanings": [
-      "a predominantly fawn-colored Old World bird (Garrulus glandarius) of the crow family with a black-and-white crest and wings marked with black, white, and blue",
-      "any of various usually crested and largely blue chiefly New World birds that are related to the common Old World jay and have roving habits and harsh voicescompareblue jay",
-      "an impertinent chatterer"
+      "A predominantly fawn-colored old world bird (garrulus glandarius) of the crow family with a black-and-white crest and wings marked with black, white, and blue",
+      "Any of various usually crested and largely blue chiefly new world birds that are related to the common old world jay and have roving habits and harsh voicescompareblue jay",
+      "An impertinent chatterer"
     ],
     "synonyms": [
       "dude",
@@ -739,9 +1363,21 @@
     "us_ipa": "/ˈdʒeɪwɔːk/",
     "examples": [],
     "meanings": [
-      "to cross a street carelessly or in an illegal manner so as to be endangered by traffic",
-      "to cross a street carelessly without paying attention to traffic regulations",
-      "to cross a street carelessly or in an illegal manner so as to be endangered by traffic"
+      "To cross a street carelessly or in an illegal manner so as to be endangered by traffic",
+      "To cross a street carelessly without paying attention to traffic regulations",
+      "To cross a street carelessly or in an illegal manner so as to be endangered by traffic"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  "jaywalker": {
+    "uk_ipa": "/ˈdʒeɪwɔːkə(r)/",
+    "us_ipa": "/ˈdʒeɪwɔːkər/",
+    "examples": [],
+    "meanings": [
+      "To cross a street carelessly or in an illegal manner so as to be endangered by traffic",
+      "To cross a street carelessly without paying attention to traffic regulations",
+      "To cross a street carelessly or in an illegal manner so as to be endangered by traffic"
     ],
     "synonyms": [],
     "antonyms": []
@@ -756,8 +1392,8 @@
     ],
     "meanings": [
       "American music developed especially from ragtime and blues and characterized by propulsive syncopated rhythms, polyphonic ensemble playing, varying degrees of improvisation, and often deliberate distortions of pitch and timbre",
-      "popular dance music influenced by jazz and played in a loud rhythmic manner",
-      "jazz dance"
+      "Popular dance music influenced by jazz and played in a loud rhythmic manner",
+      "Jazz dance"
     ],
     "synonyms": [
       "nuts",
@@ -782,9 +1418,9 @@
       "That's a jazzy tie you're wearing."
     ],
     "meanings": [
-      "having the characteristics of jazz",
-      "marked by unrestraint, animation, or flashiness",
-      "resembling jazz"
+      "Having the characteristics of jazz",
+      "Marked by unrestraint, animation, or flashiness",
+      "Resembling jazz"
     ],
     "synonyms": [
       "stylish",
@@ -810,9 +1446,9 @@
       "She's jealous of my success."
     ],
     "meanings": [
-      "hostile toward a rival or one believed to enjoy an advantage:envious",
-      "intolerant of rivalry or unfaithfulness",
-      "disposed to suspect rivalry or unfaithfulness"
+      "Hostile toward a rival or one believed to enjoy an advantage:envious",
+      "Intolerant of rivalry or unfaithfulness",
+      "Disposed to suspect rivalry or unfaithfulness"
     ],
     "synonyms": [
       "possessive",
@@ -829,6 +1465,34 @@
       "understanding"
     ]
   },
+  "jealously": {
+    "uk_ipa": "/ˈdʒeləsli/",
+    "us_ipa": "/ˈdʒeləsli/",
+    "examples": [
+      "Matt watched jealously as his girlfriend and Jake walked to class together.",
+      "She eyed Natalia jealously.",
+      "a jealously guarded secret"
+    ],
+    "meanings": [
+      "Hostile toward a rival or one believed to enjoy an advantage:envious",
+      "Intolerant of rivalry or unfaithfulness",
+      "Disposed to suspect rivalry or unfaithfulness"
+    ],
+    "synonyms": [
+      "enviously",
+      "bitterly",
+      "resentfully",
+      "vindictively",
+      "hostilely"
+    ],
+    "antonyms": [
+      "kindly",
+      "benevolently",
+      "cordially",
+      "graciously",
+      "pleasantly"
+    ]
+  },
   "jealousy": {
     "uk_ipa": "/ˈdʒeləsi/",
     "us_ipa": "/ˈdʒeləsi/",
@@ -838,9 +1502,9 @@
       "I'm tired of her petty jealousies."
     ],
     "meanings": [
-      "ajealousdisposition, attitude, or feeling",
-      "zealousvigilance",
-      "a jealous disposition, attitude, or feeling"
+      "Ajealousdisposition, attitude, or feeling",
+      "Zealousvigilance",
+      "A jealous disposition, attitude, or feeling"
     ],
     "synonyms": [
       "resentment",
@@ -856,31 +1520,15 @@
       "benevolence"
     ]
   },
-  "jeans": {
-    "uk_ipa": "/dʒiːnz/",
-    "us_ipa": "/dʒiːnz/",
-    "examples": [
-      "I always wear jeans.",
-      "a pair of designer jeans",
-      "skinny/baggy jeans"
-    ],
-    "meanings": [
-      "Sir James Hopwood 1877–1946 English physicist, astronomer, and author"
-    ],
-    "synonyms": [
-      "denims",
-      "pants",
-      "trousers",
-      "corduroys",
-      "slacks"
-    ],
-    "antonyms": []
-  },
-  "jed": {
-    "uk_ipa": "/dʒed/",
-    "us_ipa": "/dʒed/",
+  "jean": {
+    "uk_ipa": "/dʒiːn/",
+    "us_ipa": "/dʒiːn/",
     "examples": [],
-    "meanings": [],
+    "meanings": [
+      "A durable twilled cotton cloth used especially for sportswear and work clothes",
+      "Pants usually made ofdenimor jean",
+      "See alsoblue jeans,mom jeans"
+    ],
     "synonyms": [],
     "antonyms": []
   },
@@ -893,9 +1541,9 @@
       "The police were jeered at by the waiting crowd."
     ],
     "meanings": [
-      "to speak or cry out withderisionor mockery",
-      "toderidewith mocking and insulting remarks or sounds:taunt",
-      "a mocking and insulting remark or sound:taunt"
+      "To speak or cry out withderisionor mockery",
+      "Toderidewith mocking and insulting remarks or sounds:taunt",
+      "A mocking and insulting remark or sound:taunt"
     ],
     "synonyms": [
       "snort",
@@ -912,14 +1560,65 @@
       "applaud"
     ]
   },
+  "jefferson": {
+    "uk_ipa": "/ˌdʒefəsən ˈdeɪvɪs/",
+    "us_ipa": "/ˌdʒefərsən ˈdeɪvɪs/",
+    "examples": [],
+    "meanings": [
+      "Thomas 1743–1826 vice president of the u.s. (1797–1801); 3rd president of the u.s. (1801–09)",
+      "River over 200 miles (321 kilometers) long in southwestern montanaseethree forks"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  "jehad": {
+    "uk_ipa": "/dʒɪˈhɑːd/",
+    "us_ipa": "/dʒɪˈhɑːd/",
+    "examples": [],
+    "meanings": [
+      "A holy war waged on behalf of islam as a religious duty",
+      "A personal struggle in devotion to islam especially involving spiritual discipline",
+      "A crusade for a principle or belief"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  "jehovah": {
+    "uk_ipa": "/dʒəˈhəʊvə/",
+    "us_ipa": "/dʒəˈhəʊvə/",
+    "examples": [],
+    "meanings": [
+      "Godsense 1a",
+      "Godsense 1"
+    ],
+    "synonyms": [
+      "Lord",
+      "God",
+      "Father",
+      "Creator",
+      "Almighty"
+    ],
+    "antonyms": []
+  },
+  "jejunal": {
+    "uk_ipa": "/dʒɪˈdʒuːnl/",
+    "us_ipa": "/dʒɪˈdʒuːnl/",
+    "examples": [],
+    "meanings": [
+      "Of or relating to thejejunum",
+      "Of or relating to thejejunum"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
   "jejune": {
     "uk_ipa": "/dʒɪˈdʒuːn/",
     "us_ipa": "/dʒɪˈdʒuːn/",
     "examples": [],
     "meanings": [
-      "devoid of significance or interest:dull",
-      "juvenile,puerile",
-      "lacking nutritive value"
+      "Devoid of significance or interest:dull",
+      "Juvenile,puerile",
+      "Lacking nutritive value"
     ],
     "synonyms": [
       "boring",
@@ -936,13 +1635,71 @@
       "astonishing"
     ]
   },
-  "jello": {
-    "uk_ipa": "/ˈdʒeləʊ/",
-    "us_ipa": "/ˈdʒeləʊ/",
+  "jejunum": {
+    "uk_ipa": "/dʒɪˈdʒuːnəm/",
+    "us_ipa": "/dʒɪˈdʒuːnəm/",
     "examples": [],
-    "meanings": [],
+    "meanings": [
+      "The section of the small intestine that comprises the first two fifths beyond the duodenum and that is larger, thicker-walled, and more vascular and has more circular folds than the ileum",
+      "The section of the small intestine between the duodenum and the ileum",
+      "The section of the small intestine that comprises the first two fifths beyond the duodenum and that is larger, thicker-walled, and more vascular and has more circular folds and fewer peyer's patches than the ileum"
+    ],
     "synonyms": [],
     "antonyms": []
+  },
+  "jell": {
+    "uk_ipa": "/dʒel/",
+    "us_ipa": "/dʒel/",
+    "examples": [
+      "We just didn't jell as a group.",
+      "Ideas were beginning to jell in my mind.",
+      "That day, everything jelled."
+    ],
+    "meanings": [
+      "To take shape and achieve distinctness:become cohesive",
+      "To come to the consistency ofjelly:congeal,set",
+      "To cause to jell"
+    ],
+    "synonyms": [
+      "form",
+      "crystallize",
+      "crystalize",
+      "solidify",
+      "shape (up)"
+    ],
+    "antonyms": [
+      "break down",
+      "decay",
+      "decompose",
+      "disintegrate",
+      "melt"
+    ]
+  },
+  "jellied": {
+    "uk_ipa": "/ˈdʒelid/",
+    "us_ipa": "/ˈdʒelid/",
+    "examples": [
+      "jellied eels"
+    ],
+    "meanings": [
+      "A soft somewhat elastic food product made usually with gelatin or pectin",
+      "A fruit product made by boiling sugar and the juice of fruit",
+      "A substance resembling jelly in consistency"
+    ],
+    "synonyms": [
+      "gelled",
+      "stiffened",
+      "froze",
+      "congealed",
+      "coagulated"
+    ],
+    "antonyms": [
+      "liquefied",
+      "melted",
+      "liquified",
+      "thawed",
+      "fused"
+    ]
   },
   "jelly": {
     "uk_ipa": "/ˈdʒeli/",
@@ -953,9 +1710,9 @@
       "chicken in jelly"
     ],
     "meanings": [
-      "a soft somewhat elastic food product made usually with gelatin or pectin",
-      "a fruit product made by boiling sugar and the juice of fruit",
-      "a substance resembling jelly in consistency"
+      "A soft somewhat elastic food product made usually with gelatin or pectin",
+      "A fruit product made by boiling sugar and the juice of fruit",
+      "A substance resembling jelly in consistency"
     ],
     "synonyms": [
       "gel",
@@ -977,9 +1734,9 @@
     "us_ipa": "/ˈdʒelifɪʃ/",
     "examples": [],
     "meanings": [
-      "the typically free-swimming, bell-shaped, usually sexually-reproducing solitary or colonial form of acnidarianin which the whorls of tentacles lined withnematocystsarise and hang down from the margin of the nearly transparent, gelatinous bell:medusa",
-      "a largemedusacharacteristic of the siphonophores and scyphozoans (such as thesea nettleorbox jellyfish)",
-      "siphonophore"
+      "The typically free-swimming, bell-shaped, usually sexually-reproducing solitary or colonial form of acnidarianin which the whorls of tentacles lined withnematocystsarise and hang down from the margin of the nearly transparent, gelatinous bell:medusa",
+      "A largemedusacharacteristic of the siphonophores and scyphozoans (such as thesea nettleorbox jellyfish)",
+      "Siphonophore"
     ],
     "synonyms": [
       "coward",
@@ -993,12 +1750,12 @@
       "mensch"
     ]
   },
-  "jen": {
-    "uk_ipa": "/dʒen/",
-    "us_ipa": "/dʒen/",
+  "jemmy": {
+    "uk_ipa": "/ˈdʒemi/",
+    "us_ipa": "/ˈdʒemi/",
     "examples": [],
     "meanings": [
-      "the cardinal Confucian virtue of benevolence to one's fellowmen"
+      "Jimmy"
     ],
     "synonyms": [],
     "antonyms": []
@@ -1008,9 +1765,9 @@
     "us_ipa": "/ˈdʒeni/",
     "examples": [],
     "meanings": [
-      "a female bird",
-      "a female donkey",
-      "spinning jenny"
+      "A female bird",
+      "A female donkey",
+      "Spinning jenny"
     ],
     "synonyms": [
       "jennet",
@@ -1029,8 +1786,8 @@
       "This scandal could seriously jeopardize her chances of being re-elected."
     ],
     "meanings": [
-      "to expose to danger or risk:imperil",
-      "to expose to danger"
+      "To expose to danger or risk:imperil",
+      "To expose to danger"
     ],
     "synonyms": [
       "endanger",
@@ -1056,9 +1813,9 @@
       "Thousands of jobs could be in jeopardy."
     ],
     "meanings": [
-      "exposure to or imminence of loss or injury:danger",
-      "the danger that an accused person is subjected to when on trial for a criminal offense",
-      "dangersense 1"
+      "Exposure to or imminence of loss or injury:danger",
+      "The danger that an accused person is subjected to when on trial for a criminal offense",
+      "Dangersense 1"
     ],
     "synonyms": [
       "danger",
@@ -1075,13 +1832,24 @@
       "protection"
     ]
   },
+  "jerboa": {
+    "uk_ipa": "/dʒɜːˈbəʊə/",
+    "us_ipa": "/dʒɜːrˈbəʊə/",
+    "examples": [],
+    "meanings": [
+      "Any of several social nocturnal jumping rodents (family dipodidae) of arid parts of asia and northern africa having a long tail and long hind legs",
+      "Any of several social jumping rodents of dry regions of asia and northern africa with long hind legs and a long tail that are active at night"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
   "jeremiad": {
     "uk_ipa": "/ˌdʒerɪˈmaɪæd/",
     "us_ipa": "/ˌdʒerɪˈmaɪæd/",
     "examples": [],
     "meanings": [
-      "a prolongedlamentationor complaint",
-      "a cautionary or angryharangue"
+      "A prolongedlamentationor complaint",
+      "A cautionary or angryharangue"
     ],
     "synonyms": [
       "diatribe",
@@ -1098,6 +1866,30 @@
       "praise"
     ]
   },
+  "jeremiah": {
+    "uk_ipa": "/ˌdʒerəˈmaɪə/",
+    "us_ipa": "/ˌdʒerəˈmaɪə/",
+    "examples": [],
+    "meanings": [
+      "A major hebrew prophet of the seventh and sixth centuriesb.c.",
+      "Person who is pessimistic about the present and foresees a calamitous future",
+      "A prophetic book of canonical jewish and christian scriptureseebible table"
+    ],
+    "synonyms": [
+      "Cassandra",
+      "defeatist",
+      "cynic",
+      "realist",
+      "fatalist"
+    ],
+    "antonyms": [
+      "Pollyanna",
+      "optimist",
+      "Don Quixote",
+      "romantic",
+      "dreamer"
+    ]
+  },
   "jerk": {
     "uk_ipa": "/dʒɜːk/",
     "us_ipa": "/dʒɜːrk/",
@@ -1107,9 +1899,9 @@
       "The bus jerked to a halt."
     ],
     "meanings": [
-      "an annoyingly stupid or foolish person",
-      "an unlikable person",
-      "one who is cruel, rude, or small-minded"
+      "An annoyingly stupid or foolish person",
+      "An unlikable person",
+      "One who is cruel, rude, or small-minded"
     ],
     "synonyms": [
       "bastard",
@@ -1126,14 +1918,16 @@
       "idol"
     ]
   },
-  "jerky": {
-    "uk_ipa": "/ˈdʒɜːki/",
-    "us_ipa": "/ˈdʒɜːrki/",
-    "examples": [],
+  "jerkily": {
+    "uk_ipa": "/ˈdʒɜːkɪli/",
+    "us_ipa": "/ˈdʒɜːrkɪli/",
+    "examples": [
+      "The car moved off jerkily."
+    ],
     "meanings": [
-      "moving along with or marked by fits and starts",
-      "characterized by abrupt transitions",
-      "inane,foolish"
+      "Moving along with or marked by fits and starts",
+      "Characterized by abrupt transitions",
+      "Inane,foolish"
     ],
     "synonyms": [
       "rough",
@@ -1150,12 +1944,68 @@
       "placid"
     ]
   },
+  "jerkin": {
+    "uk_ipa": "/ˈdʒɜːkɪn/",
+    "us_ipa": "/ˈdʒɜːrkɪn/",
+    "examples": [],
+    "meanings": [
+      "A close-fitting hip-length usually sleeveless jacket",
+      "A close-fitting hip-length sleeveless jacket"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  "jerky": {
+    "uk_ipa": "/ˈdʒɜːki/",
+    "us_ipa": "/ˈdʒɜːrki/",
+    "examples": [],
+    "meanings": [
+      "Moving along with or marked by fits and starts",
+      "Characterized by abrupt transitions",
+      "Inane,foolish"
+    ],
+    "synonyms": [
+      "rough",
+      "uneven",
+      "choppy",
+      "bumpy",
+      "herky-jerky"
+    ],
+    "antonyms": [
+      "smooth",
+      "steady",
+      "calm",
+      "still",
+      "placid"
+    ]
+  },
+  "jeroboam": {
+    "uk_ipa": "/ˌdʒerəˈbəʊəm/",
+    "us_ipa": "/ˌdʒerəˈbəʊəm/",
+    "examples": [],
+    "meanings": [
+      "An oversize wine bottle holding about three liters"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  "jerome": {
+    "uk_ipa": "/dʒəˈrəʊm/",
+    "us_ipa": "/dʒəˈrəʊm/",
+    "examples": [],
+    "meanings": [
+      "Saintcirca347–419(or 420) latin",
+      "Church father"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
   "jerry": {
     "uk_ipa": "/ˈdʒeri/",
     "us_ipa": "/ˈdʒeri/",
     "examples": [],
     "meanings": [
-      "german"
+      "German"
     ],
     "synonyms": [],
     "antonyms": []
@@ -1168,19 +2018,29 @@
       "made from 100% cotton jersey"
     ],
     "meanings": [
-      "any of various close-fitting usually circular-knitted garments especially for the upper body",
-      "an often loose-fitting shirt that is worn by a member of a sports team as part of a team uniform and that typically has the athlete's name and number on the back",
-      "a plain weft-knitted fabric made of wool, cotton, nylon, rayon, or silk and used especially for clothing"
+      "Any of various close-fitting usually circular-knitted garments especially for the upper body",
+      "An often loose-fitting shirt that is worn by a member of a sports team as part of a team uniform and that typically has the athlete's name and number on the back",
+      "A plain weft-knitted fabric made of wool, cotton, nylon, rayon, or silk and used especially for clothing"
     ],
     "synonyms": [],
     "antonyms": []
   },
-  "jess": {
-    "uk_ipa": "/dʒes/",
-    "us_ipa": "/dʒes/",
+  "jerusalem": {
+    "uk_ipa": "/dʒəˈruːsələm/",
+    "us_ipa": "/dʒəˈruːsələm/",
     "examples": [],
     "meanings": [
-      "a short strap secured on the leg of a hawk and usually provided with a ring for attaching a leash"
+      "City in southwestern asia northwest of the dead sea; divided 1948–67 between jordan (old city) and israel (new city); capital of israel since 1950 and formerly the capital of the ancient kingdoms of israel and judah; old city under israeli control since 1967population765,000"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  "jesse": {
+    "uk_ipa": "/ˈdʒesi/",
+    "us_ipa": "/ˈdʒesi/",
+    "examples": [],
+    "meanings": [
+      "The father of david, king of israel, according to the account in i samuel"
     ],
     "synonyms": [],
     "antonyms": []
@@ -1194,9 +2054,9 @@
       "‘Many a true word is spoken in jest,’ thought Rosie (= people often say things as a joke that are actually true)."
     ],
     "meanings": [
-      "a joking or mocking remark",
-      "prank",
-      "a ludicrous circumstance or incident"
+      "A joking or mocking remark",
+      "Prank",
+      "A ludicrous circumstance or incident"
     ],
     "synonyms": [
       "fun",
@@ -1220,9 +2080,9 @@
       "the court jester"
     ],
     "meanings": [
-      "foolsense 2a",
-      "one given tojests",
-      "foolentry1sense 2"
+      "Foolsense 2a",
+      "One given tojests",
+      "Foolentry1sense 2"
     ],
     "synonyms": [
       "comedian",
@@ -1233,14 +2093,27 @@
     ],
     "antonyms": []
   },
+  "jesuit": {
+    "uk_ipa": "/ˈdʒezjuɪt/",
+    "us_ipa": "/ˈdʒeʒəwət/",
+    "examples": [
+      "a Jesuit priest"
+    ],
+    "meanings": [
+      "A member of the roman catholic society ofjesusfounded by st. ignatius loyola in 1534 and devoted to missionary and educational work",
+      "One given to intrigue or equivocation"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
   "jesus": {
     "uk_ipa": "/ˈdʒiːzəs/",
     "us_ipa": "/ˈdʒiːzəs/",
     "examples": [],
     "meanings": [
-      "the Jewish religious teacher whose life, death, and resurrection as reported by the Evangelists are the basis of the Christian message of salvation",
-      "the highest human corporeal concept of the divine idea rebuking and destroying error and bringing to light man's immortality",
-      "circa6b.c.–circaa.d.30Jesus of Nazareth; the Son of Marysource of the Christian religion and Savior in the Christian faith"
+      "The jewish religious teacher whose life, death, and resurrection as reported by the evangelists are the basis of the christian message of salvation",
+      "The highest human corporeal concept of the divine idea rebuking and destroying error and bringing to light man's immortality",
+      "Circa6b.c.–circaa.d.30jesus of nazareth; the son of marysource of the christian religion and savior in the christian faith"
     ],
     "synonyms": [],
     "antonyms": []
@@ -1254,9 +2127,9 @@
       "He flew to Bermuda in his private jet."
     ],
     "meanings": [
-      "an airplane powered by one or more jet engines",
-      "jet engine",
-      "a long narrow current of high-speed winds (such as a jet stream)"
+      "An airplane powered by one or more jet engines",
+      "Jet engine",
+      "A long narrow current of high-speed winds (such as a jet stream)"
     ],
     "synonyms": [
       "spray",
@@ -1273,6 +2146,40 @@
       "dribble"
     ]
   },
+  "jetliner": {
+    "uk_ipa": "/ˈdʒetlaɪnə(r)/",
+    "us_ipa": "/ˈdʒetlaɪnər/",
+    "examples": [],
+    "meanings": [
+      "A jet-propelled airliner"
+    ],
+    "synonyms": [
+      "jet",
+      "turboprop",
+      "aircraft",
+      "turbojet",
+      "freighter"
+    ],
+    "antonyms": []
+  },
+  "jetsam": {
+    "uk_ipa": "/ˈdʒetsəm/",
+    "us_ipa": "/ˈdʒetsəm/",
+    "examples": [],
+    "meanings": [
+      "The part of a ship, its equipment, or its cargo that is cast overboard to lighten the load in time of distress and that sinks or is washed ashore",
+      "Flotsamsense 2",
+      "Goods thrown overboard to lighten a ship in distress"
+    ],
+    "synonyms": [
+      "remnant",
+      "debris",
+      "detritus",
+      "flotsam",
+      "rubble"
+    ],
+    "antonyms": []
+  },
   "jettison": {
     "uk_ipa": "/ˈdʒetɪsn/",
     "us_ipa": "/ˈdʒetɪsn/",
@@ -1281,9 +2188,9 @@
       "He was jettisoned as team coach after the defeat."
     ],
     "meanings": [
-      "to get rid of assuperfluousor encumbering:omit or forgo as part of a plan or as the result of some other decision",
-      "to drop (cargo) to lighten a ship's load in time of distress",
-      "to drop from an aircraft or spacecraft in flight"
+      "To get rid of assuperfluousor encumbering:omit or forgo as part of a plan or as the result of some other decision",
+      "To drop (cargo) to lighten a ship's load in time of distress",
+      "To drop from an aircraft or spacecraft in flight"
     ],
     "synonyms": [
       "removal",
@@ -1305,9 +2212,9 @@
     "us_ipa": "/ˈdʒeti/",
     "examples": [],
     "meanings": [
-      "a structure extended into a sea, lake, or river to influence the current or tide or to protect a harbor",
-      "a protecting frame of a pier",
-      "a landing wharf"
+      "A structure extended into a sea, lake, or river to influence the current or tide or to protect a harbor",
+      "A protecting frame of a pier",
+      "A landing wharf"
     ],
     "synonyms": [
       "dock",
@@ -1316,6 +2223,21 @@
       "quay",
       "landing"
     ],
+    "antonyms": []
+  },
+  "jew": {
+    "uk_ipa": "/dʒuː/",
+    "us_ipa": "/dʒuː/",
+    "examples": [
+      "He was born a Jew in 1st-century Palestine.",
+      "His family are all observant Jews."
+    ],
+    "meanings": [
+      "A person belonging to a continuation through descent or conversion of the ancient jewish people",
+      "One whose religion is judaism",
+      "A member of the tribe of judah"
+    ],
+    "synonyms": [],
     "antonyms": []
   },
   "jewel": {
@@ -1327,9 +2249,9 @@
       "Venice is the jewel of the Adriatic."
     ],
     "meanings": [
-      "a precious stone:gem",
-      "an ornament of precious metal often set with stones or decorated with enamel and worn as an accessory of dress",
-      "one that is highly esteemed"
+      "A precious stone:gem",
+      "An ornament of precious metal often set with stones or decorated with enamel and worn as an accessory of dress",
+      "One that is highly esteemed"
     ],
     "synonyms": [
       "gem",
@@ -1346,16 +2268,169 @@
       "shame"
     ]
   },
-  "ji": {
-    "uk_ipa": "/dʒi/",
-    "us_ipa": "/dʒi/",
-    "examples": [
-      "Lalitaji",
-      "guruji"
+  "jewelled": {
+    "uk_ipa": "/ˈdʒuːəld/",
+    "us_ipa": "/ˈdʒuːəld/",
+    "examples": [],
+    "meanings": [
+      "A precious stone:gem",
+      "An ornament of precious metal often set with stones or decorated with enamel and worn as an accessory of dress",
+      "One that is highly esteemed"
     ],
-    "meanings": [],
+    "synonyms": [
+      "pearled",
+      "gemmed",
+      "accessorized",
+      "trapped",
+      "embroidered"
+    ],
+    "antonyms": [
+      "simplified",
+      "streamlined",
+      "stripped",
+      "displayed",
+      "denuded"
+    ]
+  },
+  "jeweller": {
+    "uk_ipa": "/ˈdʒuːələ(r)/",
+    "us_ipa": "/ˈdʒuːələr/",
+    "examples": [
+      "I bought it at the jeweller's near my office."
+    ],
+    "meanings": [
+      "One who makes or repairsjewelry",
+      "One who deals in jewelry, precious stones, watches, and usually silverware and china",
+      "A person who makes or deals in jewelry and related articles"
+    ],
     "synonyms": [],
     "antonyms": []
+  },
+  "jewellery": {
+    "uk_ipa": "/ˈdʒuːəlri/",
+    "us_ipa": "/ˈdʒuːəlri/",
+    "examples": [
+      "silver/gold jewellery",
+      "She has some lovely pieces of jewellery.",
+      "I don't wear jewellery of any kind."
+    ],
+    "meanings": [
+      "Ornamental pieces (such as rings, necklaces, earrings, and bracelets) that are made of materials which may or may not be precious (such as gold, silver, glass, and plastic), are often set with genuine or imitation gems, and are worn for personal adornment",
+      "See alsocostume jewelry"
+    ],
+    "synonyms": [
+      "accessory",
+      "ornamentation",
+      "decoration",
+      "jewel",
+      "bling"
+    ],
+    "antonyms": []
+  },
+  "jewess": {
+    "uk_ipa": "/ˈdʒuːəs/",
+    "us_ipa": "/ˈdʒuːəs/",
+    "examples": [],
+    "meanings": [
+      "A jewish girl or woman"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  "jewish": {
+    "uk_ipa": "/ˈdʒuːɪʃ/",
+    "us_ipa": "/ˈdʒuːɪʃ/",
+    "examples": [
+      "We're Jewish.",
+      "the local Jewish community"
+    ],
+    "meanings": [
+      "Of, relating to, or characteristic of the jews",
+      "Being a jew"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  "jewry": {
+    "uk_ipa": "/ˈdʒʊəri/",
+    "us_ipa": "/ˈdʒʊri/",
+    "examples": [
+      "British Jewry"
+    ],
+    "meanings": [
+      "The jewish people",
+      "A community of jews",
+      "A district in which jews lived:ghetto"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  "jezebel": {
+    "uk_ipa": "/ˈdʒezəbel/",
+    "us_ipa": "/ˈdʒezəbel/",
+    "examples": [],
+    "meanings": [
+      "The phoenician wife of ahab who according to the account in i and ii kings pressed the cult of baal on the israelite kingdom but was finally killed in accordance with elijah's prophecy",
+      "An impudent, shameless, or morally unrestrained woman"
+    ],
+    "synonyms": [
+      "hussy",
+      "siren",
+      "floozie",
+      "minx",
+      "trollop"
+    ],
+    "antonyms": []
+  },
+  "jfk": {
+    "uk_ipa": "/ˌdʒeɪ ef ˈkeɪ/",
+    "us_ipa": "/ˌdʒeɪ ef ˈkeɪ/",
+    "examples": [],
+    "meanings": [
+      "Anthony m(cleod) 1936–     american jurist",
+      "John fitzgerald 1917–1963 american politician; 35th president of the u.s. (1961–63)",
+      "Joseph patrick 1888–1969father ofjohn f.,robertandted kennedyamerican businessman and diplomat"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  "jib": {
+    "uk_ipa": "/dʒɪb/",
+    "us_ipa": "/dʒɪb/",
+    "examples": [],
+    "meanings": [
+      "To refuse to proceed further:balk",
+      "A triangular sail set on a stay extending usually from the head of the foremast to the bowsprit or the jibboom",
+      "The small triangular headsail on a sloopseesail illustration"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  "jibe": {
+    "uk_ipa": "/dʒaɪb/",
+    "us_ipa": "/dʒaɪb/",
+    "examples": [
+      "He made several cheap jibes at his opponent during the interview."
+    ],
+    "meanings": [
+      "To be in accord:agree",
+      "To utter taunting words",
+      "To deride or tease with taunting words"
+    ],
+    "synonyms": [
+      "coincide",
+      "correspond",
+      "conform",
+      "fit",
+      "agree"
+    ],
+    "antonyms": [
+      "differ (from)",
+      "disagree (with)",
+      "contradict",
+      "dispute",
+      "conflict"
+    ]
   },
   "jiffy": {
     "uk_ipa": "/ˈdʒɪfi/",
@@ -1364,8 +2439,8 @@
       "I'll be with you in a jiffy (= very soon)."
     ],
     "meanings": [
-      "a very short period of time:moment,instantsense 1",
-      "momentsense 1,instant"
+      "A very short period of time:moment,instantsense 1",
+      "Momentsense 1,instant"
     ],
     "synonyms": [
       "minute",
@@ -1382,6 +2457,62 @@
       "eon"
     ]
   },
+  "jig": {
+    "uk_ipa": "/dʒɪɡ/",
+    "us_ipa": "/dʒɪɡ/",
+    "examples": [
+      "an Irish jig"
+    ],
+    "meanings": [
+      "Any of several lively springy dances in triple rhythm",
+      "Music to which a jig may be danced",
+      "Trick,game"
+    ],
+    "synonyms": [
+      "ruse",
+      "scheme",
+      "trick",
+      "device",
+      "sleight of hand"
+    ],
+    "antonyms": [
+      "rest",
+      "relax",
+      "calm (down)",
+      "unwind",
+      "still"
+    ]
+  },
+  "jigger": {
+    "uk_ipa": "/ˈdʒɪɡə(r)/",
+    "us_ipa": "/ˈdʒɪɡər/",
+    "examples": [],
+    "meanings": [
+      "A measure used in mixing drinks that usually holds 1 to 2 ounces (30 to 60 milliliters)",
+      "One that jigs or operates a jig",
+      "Any of several sails"
+    ],
+    "synonyms": [
+      "gadget",
+      "tool",
+      "contraption",
+      "gizmo",
+      "appliance"
+    ],
+    "antonyms": []
+  },
+  "jiggered": {
+    "uk_ipa": "/ˈdʒɪɡəd/",
+    "us_ipa": "/ˈdʒɪɡərd/",
+    "examples": [],
+    "meanings": [
+      "A measure used in mixing drinks that usually holds 1 to 2 ounces (30 to 60 milliliters)",
+      "One that jigs or operates a jig",
+      "Any of several sails"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
   "jiggle": {
     "uk_ipa": "/ˈdʒɪɡl/",
     "us_ipa": "/ˈdʒɪɡl/",
@@ -1391,9 +2522,9 @@
       "He stood jiggling his car keys in his hand."
     ],
     "meanings": [
-      "to cause to move with quick little jerks or oscillating motions",
-      "to move from or as if from beingjiggled",
-      "to move or cause to move with quick little jerks"
+      "To cause to move with quick little jerks or oscillating motions",
+      "To move from or as if from beingjiggled",
+      "To move or cause to move with quick little jerks"
     ],
     "synonyms": [
       "shake",
@@ -1418,9 +2549,9 @@
       "One piece of the jigsaw is still missing."
     ],
     "meanings": [
-      "scroll sawsense 2",
-      "a light portable electric saw with a vertically reciprocating blade that is used especially for cutting curves",
-      "jigsaw puzzle"
+      "Scroll sawsense 2",
+      "A light portable electric saw with a vertically reciprocating blade that is used especially for cutting curves",
+      "Jigsaw puzzle"
     ],
     "synonyms": [],
     "antonyms": []
@@ -1430,30 +2561,48 @@
     "us_ipa": "/dʒɪˈhɑːd/",
     "examples": [],
     "meanings": [
-      "a holy war waged on behalf of Islam as a religious duty",
-      "a personal struggle in devotion to Islam especially involving spiritual discipline",
-      "a crusade for a principle or belief"
+      "A holy war waged on behalf of islam as a religious duty",
+      "A personal struggle in devotion to islam especially involving spiritual discipline",
+      "A crusade for a principle or belief"
     ],
     "synonyms": [],
     "antonyms": []
+  },
+  "jilt": {
+    "uk_ipa": "/dʒɪlt/",
+    "us_ipa": "/dʒɪlt/",
+    "examples": [
+      "He was jilted by his fiancée.",
+      "a jilted bride/lover"
+    ],
+    "meanings": [
+      "To cast off or reject (someone, such as a lover) capriciously or unfeelingly",
+      "A person who casts off or rejects someone previously accepted as a lover:one who jilts (seejiltentry1) a lover",
+      "To cast a lover aside unfeelingly"
+    ],
+    "synonyms": [
+      "dump",
+      "leave",
+      "ditch",
+      "abandon",
+      "blow off"
+    ],
+    "antonyms": [
+      "take",
+      "hook up (with)",
+      "befriend",
+      "latch (onoronto)"
+    ]
   },
   "jim": {
     "uk_ipa": "/dʒɪm/",
     "us_ipa": "/dʒɪm/",
     "examples": [],
     "meanings": [
-      "racialsegregationand discrimination enforced by laws, customs, and practices in especially the southern states of the U.S. from the end ofReconstructionin 1877 until the mid-20th century",
-      "to restrict the liberty of (someone) throughJim Crow",
-      "racialsegregationand discrimination enforced by laws, customs, and practices in especially the southern states of the U.S. from the end ofReconstructionin 1877 until the mid-20th century:jim crowsense 1a"
+      "Racialsegregationand discrimination enforced by laws, customs, and practices in especially the southern states of the u.s. from the end ofreconstructionin 1877 until the mid-20th century",
+      "To restrict the liberty of (someone) throughjim crow",
+      "Racialsegregationand discrimination enforced by laws, customs, and practices in especially the southern states of the u.s. from the end ofreconstructionin 1877 until the mid-20th century:jim crowsense 1a"
     ],
-    "synonyms": [],
-    "antonyms": []
-  },
-  "jimi": {
-    "uk_ipa": "/ˌdʒɪmi ˈhendrɪks/",
-    "us_ipa": "/ˌdʒɪmi ˈhendrɪks/",
-    "examples": [],
-    "meanings": [],
     "synonyms": [],
     "antonyms": []
   },
@@ -1462,9 +2611,9 @@
     "us_ipa": "/ˈdʒɪmi/",
     "examples": [],
     "meanings": [
-      "a short crowbar",
-      "to force open with or as if with a jimmy",
-      "a short crowbar used by burglars"
+      "A short crowbar",
+      "To force open with or as if with a jimmy",
+      "A short crowbar used by burglars"
     ],
     "synonyms": [
       "pry",
@@ -1487,9 +2636,9 @@
       "I wrote a song which they’re thinking of using as a jingle."
     ],
     "meanings": [
-      "to make a light clinking or tinkling sound",
-      "to rhyme or sound in a catchy repetitious manner",
-      "to cause to jingle"
+      "To make a light clinking or tinkling sound",
+      "To rhyme or sound in a catchy repetitious manner",
+      "To cause to jingle"
     ],
     "synonyms": [
       "rattle",
@@ -1500,12 +2649,35 @@
     ],
     "antonyms": []
   },
+  "jingo": {
+    "uk_ipa": "/ˈdʒɪŋɡəʊ/",
+    "us_ipa": "/ˈdʒɪŋɡəʊ/",
+    "examples": [],
+    "meanings": [
+      "One characterized byjingoism",
+      "A person who favors a warlike policy toward other countries"
+    ],
+    "synonyms": [
+      "nationalist",
+      "patriot",
+      "chauvinist",
+      "flag-waver",
+      "loyalist"
+    ],
+    "antonyms": [
+      "internationalist",
+      "neutralist",
+      "pacifist",
+      "dove",
+      "peacemaker"
+    ]
+  },
   "jingoism": {
     "uk_ipa": "/ˈdʒɪŋɡəʊɪzəm/",
     "us_ipa": "/ˈdʒɪŋɡəʊɪzəm/",
     "examples": [],
     "meanings": [
-      "extremechauvinismor nationalism marked especially by a belligerent foreign policy"
+      "Extremechauvinismor nationalism marked especially by a belligerent foreign policy"
     ],
     "synonyms": [
       "nationalism",
@@ -1525,7 +2697,7 @@
     "us_ipa": "/ˌdʒɪŋɡəʊˈɪstɪk/",
     "examples": [],
     "meanings": [
-      "extremechauvinismor nationalism marked especially by a belligerent foreign policy"
+      "Extremechauvinismor nationalism marked especially by a belligerent foreign policy"
     ],
     "synonyms": [
       "nationalistic",
@@ -1538,14 +2710,110 @@
       "internationalist"
     ]
   },
+  "jinks": {
+    "uk_ipa": "/dʒɪŋks/",
+    "us_ipa": "/dʒɪŋks/",
+    "examples": [],
+    "meanings": [
+      "To move quickly or unexpectedly with sudden turns and shifts (as in dodging)",
+      "A quick evasive turn:slip",
+      "Pranks,frolics"
+    ],
+    "synonyms": [
+      "weaves",
+      "ducks",
+      "dodges",
+      "zigzags",
+      "turns"
+    ],
+    "antonyms": [
+      "work",
+      "labor",
+      "drudgery",
+      "duty",
+      "responsibility"
+    ]
+  },
+  "jinx": {
+    "uk_ipa": "/dʒɪŋks/",
+    "us_ipa": "/dʒɪŋks/",
+    "examples": [
+      "I don't want to jinx anything by making promises."
+    ],
+    "meanings": [
+      "One that brings bad luck",
+      "The state or spell of bad luck brought on by a jinx",
+      "To foredoom to failure or misfortune:bring bad luck to"
+    ],
+    "synonyms": [
+      "curse",
+      "spell",
+      "hoodoo",
+      "Indian sign",
+      "hex"
+    ],
+    "antonyms": [
+      "charm",
+      "talisman",
+      "amulet",
+      "fetish",
+      "fetich"
+    ]
+  },
+  "jinxed": {
+    "uk_ipa": "/dʒɪŋkst/",
+    "us_ipa": "/dʒɪŋkst/",
+    "examples": [
+      "The whole family seemed to be jinxed."
+    ],
+    "meanings": [
+      "One that brings bad luck",
+      "The state or spell of bad luck brought on by a jinx",
+      "To foredoom to failure or misfortune:bring bad luck to"
+    ],
+    "synonyms": [
+      "unhappy",
+      "unfortunate",
+      "unlucky",
+      "disastrous",
+      "luckless"
+    ],
+    "antonyms": [
+      "happy",
+      "lucky",
+      "fortunate",
+      "favored",
+      "gifted"
+    ]
+  },
+  "jitney": {
+    "uk_ipa": "/ˈdʒɪtni/",
+    "us_ipa": "/ˈdʒɪtni/",
+    "examples": [
+      "I took a jitney to go downtown."
+    ],
+    "meanings": [
+      "An unlicensed taxicab",
+      "Bussense 1a",
+      "A small bus that carries passengers over a regular route on a flexible schedule"
+    ],
+    "synonyms": [
+      "bus",
+      "automobile",
+      "car",
+      "minibus",
+      "minivan"
+    ],
+    "antonyms": []
+  },
   "jitterbug": {
     "uk_ipa": "/ˈdʒɪtəbʌɡ/",
     "us_ipa": "/ˈdʒɪtərbʌɡ/",
     "examples": [],
     "meanings": [
-      "a jazz variation of the two-step in which couples swing, balance, and twirl in standardized patterns and often with vigorous acrobatics",
-      "one who dances the jitterbug",
-      "to dance the jitterbug"
+      "A jazz variation of the two-step in which couples swing, balance, and twirl in standardized patterns and often with vigorous acrobatics",
+      "One who dances the jitterbug",
+      "To dance the jitterbug"
     ],
     "synonyms": [
       "fox-trot",
@@ -1564,9 +2832,9 @@
       "Louise had pre-wedding jitters."
     ],
     "meanings": [
-      "a sense of panic or extreme nervousness",
-      "the state of mind or the movement of one thatjitters",
-      "irregular random movement (as of a pointer or an image on a television screen)"
+      "A sense of panic or extreme nervousness",
+      "The state of mind or the movement of one thatjitters",
+      "Irregular random movement (as of a pointer or an image on a television screen)"
     ],
     "synonyms": [
       "nerves",
@@ -1592,8 +2860,8 @@
       "Just talking about it made her jittery."
     ],
     "meanings": [
-      "suffering from thejitters",
-      "marked byjitteringmovements"
+      "Suffering from thejitters",
+      "Marked byjitteringmovements"
     ],
     "synonyms": [
       "excitable",
@@ -1617,9 +2885,9 @@
       "to talk jive"
     ],
     "meanings": [
-      "glib, deceptive, or foolish talk",
-      "the jargon of hipsters",
-      "a special jargon of difficult or slang terms"
+      "Glib, deceptive, or foolish talk",
+      "The jargon of hipsters",
+      "A special jargon of difficult or slang terms"
     ],
     "synonyms": [
       "double",
@@ -1636,25 +2904,6 @@
       "candid"
     ]
   },
-  "jo": {
-    "uk_ipa": "/dʒəʊ/",
-    "us_ipa": "/dʒəʊ/",
-    "examples": [],
-    "meanings": [
-      "sweetheart,dear",
-      "Joel"
-    ],
-    "synonyms": [],
-    "antonyms": []
-  },
-  "joanna": {
-    "uk_ipa": "/dʒəʊˈænə/",
-    "us_ipa": "/dʒəʊˈænə/",
-    "examples": [],
-    "meanings": [],
-    "synonyms": [],
-    "antonyms": []
-  },
   "job": {
     "uk_ipa": "/dʒɒb/",
     "us_ipa": "/dʒɑːb/",
@@ -1664,9 +2913,9 @@
       "I'm thinking of applying for a new job."
     ],
     "meanings": [
-      "a regular remunerative position",
-      "a specific duty, role, or function",
-      "something that has to be done:task"
+      "A regular remunerative position",
+      "A specific duty, role, or function",
+      "Something that has to be done:task"
     ],
     "synonyms": [
       "position",
@@ -1688,9 +2937,9 @@
     "us_ipa": "/ˈdʒɑːbər/",
     "examples": [],
     "meanings": [
-      "one that jobs: such as",
-      "wholesaler",
-      "a wholesaler who operates on a small scale or who sells only to retailers and institutions"
+      "One that jobs: such as",
+      "Wholesaler",
+      "A wholesaler who operates on a small scale or who sells only to retailers and institutions"
     ],
     "synonyms": [
       "wholesaler",
@@ -1707,6 +2956,30 @@
       "end user"
     ]
   },
+  "jobless": {
+    "uk_ipa": "/ˈdʒɒbləs/",
+    "us_ipa": "/ˈdʒɑːbləs/",
+    "examples": [
+      "The closure left 500 people jobless.",
+      "The company has plans to make more people jobless."
+    ],
+    "meanings": [
+      "Having no job",
+      "Of or relating to those having no job"
+    ],
+    "synonyms": [
+      "unemployed",
+      "out of work",
+      "underemployed",
+      "subemployed",
+      "employed"
+    ],
+    "antonyms": [
+      "employed",
+      "working",
+      "self-employed"
+    ]
+  },
   "jock": {
     "uk_ipa": "/dʒɒk/",
     "us_ipa": "/dʒɑːk/",
@@ -1715,9 +2988,9 @@
       "a computer jock"
     ],
     "meanings": [
-      "athletesense 1",
-      "a school or college athlete",
-      "a person devoted to a single pursuit or interest"
+      "Athletesense 1",
+      "A school or college athlete",
+      "A person devoted to a single pursuit or interest"
     ],
     "synonyms": [],
     "antonyms": []
@@ -1729,9 +3002,9 @@
       "Which jockey will be riding tomorrow?"
     ],
     "meanings": [
-      "a person who rides or drives a horse especially as a professional in a race",
-      "a person who operates or works with a specified vehicle, device, object, or material",
-      "to maneuver or manipulate by adroit or devious means"
+      "A person who rides or drives a horse especially as a professional in a race",
+      "A person who operates or works with a specified vehicle, device, object, or material",
+      "To maneuver or manipulate by adroit or devious means"
     ],
     "synonyms": [
       "engineer",
@@ -1748,14 +3021,26 @@
       "scamp"
     ]
   },
+  "jockstrap": {
+    "uk_ipa": "/ˈdʒɒkstræp/",
+    "us_ipa": "/ˈdʒɑːkstræp/",
+    "examples": [],
+    "meanings": [
+      "Athletic supporter",
+      "Athletic supporter",
+      "Athletic supporter"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
   "jocose": {
     "uk_ipa": "/dʒəˈkəʊs/",
     "us_ipa": "/dʒəˈkəʊs/",
     "examples": [],
     "meanings": [
-      "given to joking:merry",
-      "characterized by joking:humorous",
-      "merrysense 1,mirthful"
+      "Given to joking:merry",
+      "Characterized by joking:humorous",
+      "Merrysense 1,mirthful"
     ],
     "synonyms": [
       "merry",
@@ -1781,9 +3066,9 @@
       "She explained in a jocular fashion that I was the problem."
     ],
     "meanings": [
-      "said or done as a joke:characterized by jesting:playful",
-      "given to jesting:habitually jolly orjocund",
-      "fond of joking"
+      "Said or done as a joke:characterized by jesting:playful",
+      "Given to jesting:habitually jolly orjocund",
+      "Fond of joking"
     ],
     "synonyms": [
       "humorous",
@@ -1800,6 +3085,67 @@
       "lame"
     ]
   },
+  "jocularity": {
+    "uk_ipa": "/ˌdʒɒkjəˈlærəti/",
+    "us_ipa": "/ˌdʒɑːkjəˈlærəti/",
+    "examples": [],
+    "meanings": [
+      "Said or done as a joke:characterized by jesting:playful",
+      "Given to jesting:habitually jolly orjocund",
+      "Fond of joking"
+    ],
+    "synonyms": [
+      "playfulness",
+      "satire",
+      "jokiness",
+      "spoof",
+      "slapstick"
+    ],
+    "antonyms": [
+      "pathos",
+      "sorrow",
+      "grief",
+      "misery",
+      "anguish"
+    ]
+  },
+  "jocund": {
+    "uk_ipa": "/ˈdʒɒkənd/",
+    "us_ipa": "/ˈdʒɑːkənd/",
+    "examples": [],
+    "meanings": [
+      "Marked by or suggestive of high spirits and lively mirthfulness",
+      "Merry,jolly"
+    ],
+    "synonyms": [
+      "merry",
+      "jolly",
+      "festive",
+      "cheerful",
+      "mirthful"
+    ],
+    "antonyms": [
+      "melancholy",
+      "sad",
+      "sorrowful",
+      "unhappy",
+      "blue"
+    ]
+  },
+  "jodhpurs": {
+    "uk_ipa": "/ˈdʒɒdpəz/",
+    "us_ipa": "/ˈdʒɑːdpərz/",
+    "examples": [
+      "a pair of jodhpurs"
+    ],
+    "meanings": [
+      "Riding breeches cut full through the hips and close-fitting from knee to ankle",
+      "An ankle-high boot fastened with a strap that is buckled at the side",
+      "Riding breeches loose above the knee and tight-fitting below"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
   "joe": {
     "uk_ipa": "/dʒəʊ/",
     "us_ipa": "/dʒəʊ/",
@@ -1807,8 +3153,8 @@
       "a fitness program for the average joe"
     ],
     "meanings": [
-      "fellow,guy",
-      "coffeesense 1a"
+      "Fellow,guy",
+      "Coffeesense 1a"
     ],
     "synonyms": [
       "guy",
@@ -1817,17 +3163,6 @@
       "dude",
       "man"
     ],
-    "antonyms": []
-  },
-  "joey": {
-    "uk_ipa": "/ˈdʒəʊi/",
-    "us_ipa": "/ˈdʒəʊi/",
-    "examples": [],
-    "meanings": [
-      "a baby animal",
-      "a baby kangaroo"
-    ],
-    "synonyms": [],
     "antonyms": []
   },
   "jog": {
@@ -1839,9 +3174,9 @@
       "Maybe these letters will help to jog your memory."
     ],
     "meanings": [
-      "to run or ride at a slow trot",
-      "to go at a slow, leisurely, or monotonous pace:trudge",
-      "to move up and down or about with a short heavy motion"
+      "To run or ride at a slow trot",
+      "To go at a slow, leisurely, or monotonous pace:trudge",
+      "To move up and down or about with a short heavy motion"
     ],
     "synonyms": [
       "trot",
@@ -1863,9 +3198,9 @@
     "us_ipa": "/ˈdʒɑːɡər/",
     "examples": [],
     "meanings": [
-      "someone or something thatjogs",
-      "a person who jogs for exercise",
-      "pants that have a drawstring or elastic waist and usually tapered legs with snug cuffs and that are worn especially for exercise or comfort"
+      "Someone or something thatjogs",
+      "A person who jogs for exercise",
+      "Pants that have a drawstring or elastic waist and usually tapered legs with snug cuffs and that are worn especially for exercise or comfort"
     ],
     "synonyms": [],
     "antonyms": []
@@ -1879,9 +3214,9 @@
       "I need some new jogging shoes."
     ],
     "meanings": [
-      "to run or ride at a slow trot",
-      "to go at a slow, leisurely, or monotonous pace:trudge",
-      "to move up and down or about with a short heavy motion"
+      "To run or ride at a slow trot",
+      "To go at a slow, leisurely, or monotonous pace:trudge",
+      "To move up and down or about with a short heavy motion"
     ],
     "synonyms": [
       "trotting",
@@ -1898,14 +3233,32 @@
       "dragging"
     ]
   },
+  "joggle": {
+    "uk_ipa": "/ˈdʒɒɡl/",
+    "us_ipa": "/ˈdʒɑːɡl/",
+    "examples": [],
+    "meanings": [
+      "To shake slightly",
+      "To move shakily or jerkily",
+      "Jogentry2sense 1a"
+    ],
+    "synonyms": [
+      "shake",
+      "jerk",
+      "shudder",
+      "vibrate",
+      "quiver"
+    ],
+    "antonyms": []
+  },
   "john": {
     "uk_ipa": "/dʒɒn/",
     "us_ipa": "/dʒɑːn/",
     "examples": [],
     "meanings": [
-      "toiletsense 1",
-      "a sex worker's client",
-      "a Jewish prophet who according to Gospel accounts foretold Jesus' messianic ministry and baptized him"
+      "Toiletsense 1",
+      "A sex worker's client",
+      "A jewish prophet who according to gospel accounts foretold jesus' messianic ministry and baptized him"
     ],
     "synonyms": [
       "restroom",
@@ -1921,9 +3274,9 @@
     "us_ipa": "/ˈdʒɑːni/",
     "examples": [],
     "meanings": [
-      "fellow,guy",
-      "a short-sleeved collarless gown that is open in the back and is worn by persons (such as hospital patients) undergoing medical examination or treatment",
-      "a loose robe that is usually open in the back and is worn by patients in a medical facility (such as a hospital):hospital gown"
+      "Fellow,guy",
+      "A short-sleeved collarless gown that is open in the back and is worn by persons (such as hospital patients) undergoing medical examination or treatment",
+      "A loose robe that is usually open in the back and is worn by patients in a medical facility (such as a hospital):hospital gown"
     ],
     "synonyms": [],
     "antonyms": []
@@ -1937,9 +3290,9 @@
       "The head was not joined onto the body."
     ],
     "meanings": [
-      "to put or bring together so as to form a unit",
-      "to connect (separated items, such as points) by a line",
-      "to put or bring into close association or relationship"
+      "To put or bring together so as to form a unit",
+      "To connect (separated items, such as points) by a line",
+      "To put or bring into close association or relationship"
     ],
     "synonyms": [
       "touch",
@@ -1963,9 +3316,20 @@
       "All joiners will receive a welcome pack."
     ],
     "meanings": [
-      "one thatjoins: such as",
-      "a person whose occupation is to construct articles byjoiningpieces of wood",
-      "a gregarious or civic-minded person who joins many organizations"
+      "One thatjoins: such as",
+      "A person whose occupation is to construct articles byjoiningpieces of wood",
+      "A gregarious or civic-minded person who joins many organizations"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  "joinery": {
+    "uk_ipa": "/ˈdʒɔɪnəri/",
+    "us_ipa": "/ˈdʒɔɪnəri/",
+    "examples": [],
+    "meanings": [
+      "Work done by ajoiner",
+      "The art or trade of a joiner"
     ],
     "synonyms": [],
     "antonyms": []
@@ -1979,9 +3343,9 @@
       "They finished in joint first place."
     ],
     "meanings": [
-      "the point of contact between elements of an animalskeletonwith the parts that surround and support it",
-      "nodesense 5b",
-      "a part or space included between twoarticulations, knots, or nodes"
+      "The point of contact between elements of an animalskeletonwith the parts that surround and support it",
+      "Nodesense 5b",
+      "A part or space included between twoarticulations, knots, or nodes"
     ],
     "synonyms": [
       "collective",
@@ -2005,9 +3369,9 @@
       "a doll with jointed arms/legs"
     ],
     "meanings": [
-      "the point of contact between elements of an animalskeletonwith the parts that surround and support it",
-      "nodesense 5b",
-      "a part or space included between twoarticulations, knots, or nodes"
+      "The point of contact between elements of an animalskeletonwith the parts that surround and support it",
+      "Nodesense 5b",
+      "A part or space included between twoarticulations, knots, or nodes"
     ],
     "synonyms": [
       "collective",
@@ -2024,12 +3388,41 @@
       "personal"
     ]
   },
-  "jojoba": {
-    "uk_ipa": "/həˈhəʊbə/",
-    "us_ipa": "/həʊˈhəʊbə/",
-    "examples": [],
+  "jointly": {
+    "uk_ipa": "/ˈdʒɔɪntli/",
+    "us_ipa": "/ˈdʒɔɪntli/",
+    "examples": [
+      "The event was organized jointly by students and staff."
+    ],
     "meanings": [
-      "a shrub or small tree (Simmondsia chinensissynonymS. californica) of the box family of southwestern North America with edible seeds that yield a valuable liquid wax used especially in cosmetics"
+      "The point of contact between elements of an animalskeletonwith the parts that surround and support it",
+      "Nodesense 5b",
+      "A part or space included between twoarticulations, knots, or nodes"
+    ],
+    "synonyms": [
+      "together",
+      "conjointly",
+      "in concert",
+      "unanimously",
+      "collectively"
+    ],
+    "antonyms": [
+      "separately",
+      "independently",
+      "individually",
+      "solely",
+      "apart"
+    ]
+  },
+  "joist": {
+    "uk_ipa": "/dʒɔɪst/",
+    "us_ipa": "/dʒɔɪst/",
+    "examples": [
+      "Lift any loose floorboards and inspect the joists."
+    ],
+    "meanings": [
+      "Any of the small timbers or metal beams ranged parallel from wall to wall in a structure to support a floor or ceiling",
+      "A small beam laid crosswise to support a floor or ceiling"
     ],
     "synonyms": [],
     "antonyms": []
@@ -2043,9 +3436,9 @@
       "They often make jokes at each other's expense."
     ],
     "meanings": [
-      "something said or done to provoke laughter",
-      "a brief oral narrative with a climactic humorous twist",
-      "the humorous or ridiculous element in something"
+      "Something said or done to provoke laughter",
+      "A brief oral narrative with a climactic humorous twist",
+      "The humorous or ridiculous element in something"
     ],
     "synonyms": [
       "laugh",
@@ -2069,9 +3462,9 @@
       "He’s always been a bit of a joker."
     ],
     "meanings": [
-      "a person given to joking:wag",
-      "fellow,guy",
-      "an insignificant, obnoxious, or incompetent person"
+      "A person given to joking:wag",
+      "Fellow,guy",
+      "An insignificant, obnoxious, or incompetent person"
     ],
     "synonyms": [
       "comedian",
@@ -2093,9 +3486,9 @@
     "us_ipa": "/ˈdʒəʊkɪŋli/",
     "examples": [],
     "meanings": [
-      "something said or done to provoke laughter",
-      "a brief oral narrative with a climactic humorous twist",
-      "the humorous or ridiculous element in something"
+      "Something said or done to provoke laughter",
+      "A brief oral narrative with a climactic humorous twist",
+      "The humorous or ridiculous element in something"
     ],
     "synonyms": [
       "laugh",
@@ -2112,6 +3505,33 @@
       "darling"
     ]
   },
+  "jollity": {
+    "uk_ipa": "/ˈdʒɒləti/",
+    "us_ipa": "/ˈdʒɑːləti/",
+    "examples": [
+      "scenes of high spirits and jollity",
+      "the forced jollity of so many TV presenters"
+    ],
+    "meanings": [
+      "The quality or state of beingjolly:merriment",
+      "A festive gathering",
+      "Merrymakingsense 1,gaiety"
+    ],
+    "synonyms": [
+      "festivity",
+      "gayety",
+      "cheerfulness",
+      "merriment",
+      "celebration"
+    ],
+    "antonyms": [
+      "misery",
+      "gloom",
+      "grief",
+      "mourning",
+      "woe"
+    ]
+  },
   "jolly": {
     "uk_ipa": "/ˈdʒɒli/",
     "us_ipa": "/ˈdʒɑːli/",
@@ -2121,9 +3541,9 @@
       "a jolly evening/party/time"
     ],
     "meanings": [
-      "full of high spirits:joyous",
-      "given to conviviality:jovial",
-      "expressing, suggesting, or inspiring lively happiness and good cheer:cheerful"
+      "Full of high spirits:joyous",
+      "Given to conviviality:jovial",
+      "Expressing, suggesting, or inspiring lively happiness and good cheer:cheerful"
     ],
     "synonyms": [
       "merry",
@@ -2140,12 +3560,55 @@
       "melancholy"
     ]
   },
-  "jon": {
-    "uk_ipa": "/dʒɒn/",
-    "us_ipa": "/dʒɑːn/",
+  "jolt": {
+    "uk_ipa": "/dʒəʊlt/",
+    "us_ipa": "/dʒəʊlt/",
+    "examples": [
+      "The truck jolted and rattled over the rough ground.",
+      "We were jolting along at about five miles an hour.",
+      "The bus jolted to a halt."
+    ],
+    "meanings": [
+      "An abrupt, sharp, jerky blow or movement",
+      "A sudden feeling of shock, surprise, or disappointment",
+      "An event or development causing such a feeling"
+    ],
+    "synonyms": [
+      "collision",
+      "shock",
+      "thump",
+      "crash",
+      "impact"
+    ],
+    "antonyms": [
+      "cushion",
+      "please",
+      "buffer",
+      "delight",
+      "rejoice"
+    ]
+  },
+  "jomo": {
+    "uk_ipa": "/ˈdʒəʊməʊ/",
+    "us_ipa": "/ˈdʒəʊməʊ/",
+    "examples": [
+      "Cherishing time to yourself and embracing JOMO will leave you feeling refreshed."
+    ],
+    "meanings": [
+      "Joy of missing out:joy experienced when not attending events to which one has been invited",
+      "Comparefomo"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  "jonathan": {
+    "uk_ipa": "/ˈdʒɒnəθən/",
+    "us_ipa": "/ˈdʒɑːnəθən/",
     "examples": [],
     "meanings": [
-      "Jonah; Jonas"
+      "A son of saul and friend of david according to the account in i samuel",
+      "American",
+      "A new englander"
     ],
     "synonyms": [],
     "antonyms": []
@@ -2155,9 +3618,21 @@
     "us_ipa": "/ˈdʒɔːrdn/",
     "examples": [],
     "meanings": [
-      "David Starr 1851–1931 American biologist and educator",
-      "Michael (Jeffrey) 1963–     American basketball player",
-      "river in central Utah flowing from Utah Lake north into the Great Salt Lake"
+      "David starr 1851–1931 american biologist and educator",
+      "Michael (jeffrey) 1963–     american basketball player",
+      "River in central utah flowing from utah lake north into the great salt lake"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  "jordanian": {
+    "uk_ipa": "/dʒɔːˈdeɪniən/",
+    "us_ipa": "/dʒɔːrˈdeɪniən/",
+    "examples": [],
+    "meanings": [
+      "David starr 1851–1931 american biologist and educator",
+      "Michael (jeffrey) 1963–     american basketball player",
+      "River in central utah flowing from utah lake north into the great salt lake"
     ],
     "synonyms": [],
     "antonyms": []
@@ -2167,9 +3642,9 @@
     "us_ipa": "/ˈdʒəʊzəf/",
     "examples": [],
     "meanings": [
-      "a son of Jacob who according to the account in Genesis rose to high political office in Egypt after being sold into slavery by his brothers",
-      "the husband of Mary the mother of Jesus according to the Gospel accounts",
-      "a long cloak worn especially by women in the 18th century"
+      "A son of jacob who according to the account in genesis rose to high political office in egypt after being sold into slavery by his brothers",
+      "The husband of mary the mother of jesus according to the gospel accounts",
+      "A long cloak worn especially by women in the 18th century"
     ],
     "synonyms": [
       "palatine",
@@ -2180,6 +3655,36 @@
     ],
     "antonyms": []
   },
+  "josh": {
+    "uk_ipa": "/dʒɒʃ/",
+    "us_ipa": "/dʒɑːʃ/",
+    "examples": [],
+    "meanings": [
+      "To engage in banter:joke",
+      "To tease good-naturedly:kid",
+      "A good-humored joke:jest"
+    ],
+    "synonyms": [
+      "joke",
+      "laugh",
+      "joking",
+      "sally",
+      "yak"
+    ],
+    "antonyms": []
+  },
+  "joshua": {
+    "uk_ipa": "/ˈdʒɒʃuə/",
+    "us_ipa": "/ˈdʒɑːʃuə/",
+    "examples": [],
+    "meanings": [
+      "The divinely commissioned successor of moses and military leader of the israelites during the conquest of canaan according to the account in the book of joshua",
+      "A mainly narrative book of canonical jewish and christian scriptureseebible table",
+      "A mainly narrative book of canonical jewish and christian scriptureseebible"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
   "jostle": {
     "uk_ipa": "/ˈdʒɒsl/",
     "us_ipa": "/ˈdʒɑːsl/",
@@ -2188,9 +3693,9 @@
       "People were jostling, arguing and complaining."
     ],
     "meanings": [
-      "to come in contact or into collision",
-      "to make one's way by pushing and shoving",
-      "to exist in close proximity"
+      "To come in contact or into collision",
+      "To make one's way by pushing and shoving",
+      "To exist in close proximity"
     ],
     "synonyms": [
       "push",
@@ -2206,9 +3711,9 @@
     "us_ipa": "/dʒɑːt/",
     "examples": [],
     "meanings": [
-      "the least bit:iota",
-      "to write briefly or hurriedly:set down in the form of a note",
-      "the least bit"
+      "The least bit:iota",
+      "To write briefly or hurriedly:set down in the form of a note",
+      "The least bit"
     ],
     "synonyms": [
       "damn",
@@ -2219,14 +3724,25 @@
     ],
     "antonyms": []
   },
+  "jotter": {
+    "uk_ipa": "/ˈdʒɒtə(r)/",
+    "us_ipa": "/ˈdʒɑːtər/",
+    "examples": [],
+    "meanings": [
+      "One that jots down memoranda",
+      "A memorandum book"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
   "joule": {
     "uk_ipa": "/dʒuːl/",
     "us_ipa": "/dʒuːl/",
     "examples": [],
     "meanings": [
-      "a unit of work or energy equal to the work done by a force of one newton acting through a distance of one meter",
-      "a unit of work or energy equal to the work done by a force of one newton acting through a distance of one meter",
-      "a unit of work or energy equal to the work done by a force of one newton acting through a distance of one meter"
+      "A unit of work or energy equal to the work done by a force of one newton acting through a distance of one meter",
+      "A unit of work or energy equal to the work done by a force of one newton acting through a distance of one meter",
+      "A unit of work or energy equal to the work done by a force of one newton acting through a distance of one meter"
     ],
     "synonyms": [],
     "antonyms": []
@@ -2240,9 +3756,9 @@
       "the Journal of Experimental Psychology"
     ],
     "meanings": [
-      "a daily newspaper",
-      "a periodical dealing especially with matters of current interest",
-      "a record of experiences, ideas, or reflections kept regularly for private use:diary"
+      "A daily newspaper",
+      "A periodical dealing especially with matters of current interest",
+      "A record of experiences, ideas, or reflections kept regularly for private use:diary"
     ],
     "synonyms": [
       "newspaper",
@@ -2258,8 +3774,8 @@
     "us_ipa": "/ˌdʒɜːrnəˈliːz/",
     "examples": [],
     "meanings": [
-      "a style of writing held to be characteristic of newspapers",
-      "a way of writing said to be similar to that of newspapers"
+      "A style of writing held to be characteristic of newspapers",
+      "A way of writing said to be similar to that of newspapers"
     ],
     "synonyms": [
       "bureaucratese",
@@ -2278,9 +3794,9 @@
       "This story was a good piece of investigative journalism."
     ],
     "meanings": [
-      "the collection and editing of news for presentation through the media",
-      "the public press",
-      "an academic study concerned with the collection and editing of news or the management of a news medium"
+      "The collection and editing of news for presentation through the media",
+      "The public press",
+      "An academic study concerned with the collection and editing of news or the management of a news medium"
     ],
     "synonyms": [],
     "antonyms": []
@@ -2294,9 +3810,9 @@
       "The minister told journalists he was not going to resign."
     ],
     "meanings": [
-      "a person engaged injournalism",
-      "a writer or editor for a news medium",
-      "a writer who aims at a mass audience"
+      "A person engaged injournalism",
+      "A writer or editor for a news medium",
+      "A writer who aims at a mass audience"
     ],
     "synonyms": [
       "reporter",
@@ -2315,7 +3831,7 @@
       "his journalistic background"
     ],
     "meanings": [
-      "of, relating to, or characteristic ofjournalismorjournalists"
+      "Of, relating to, or characteristic ofjournalismorjournalists"
     ],
     "synonyms": [],
     "antonyms": []
@@ -2329,9 +3845,9 @@
       "Many refugees made the journey alone."
     ],
     "meanings": [
-      "something suggesting travel or passage from one place to another",
-      "an act or instance of traveling from one place to another:trip",
-      "a day's travel"
+      "Something suggesting travel or passage from one place to another",
+      "An act or instance of traveling from one place to another:trip",
+      "A day's travel"
     ],
     "synonyms": [
       "trip",
@@ -2347,9 +3863,9 @@
     "us_ipa": "/ˈdʒɜːrnimən/",
     "examples": [],
     "meanings": [
-      "a worker who has learned a trade and works for another person usually by the daycompareapprenticeentry1sense 1b,masterentry1sense 1c",
-      "an experienced reliable worker, athlete, or performer especially as distinguished from one who is brilliant or colorful",
-      "a worker who has learned a trade and works for another person usually by the day"
+      "A worker who has learned a trade and works for another person usually by the daycompareapprenticeentry1sense 1b,masterentry1sense 1c",
+      "An experienced reliable worker, athlete, or performer especially as distinguished from one who is brilliant or colorful",
+      "A worker who has learned a trade and works for another person usually by the day"
     ],
     "synonyms": [
       "artist",
@@ -2360,6 +3876,42 @@
     ],
     "antonyms": []
   },
+  "joust": {
+    "uk_ipa": "/dʒaʊst/",
+    "us_ipa": "/dʒaʊst/",
+    "examples": [
+      "a medieval joust",
+      "the weekly verbal joust called Prime Minister's Questions"
+    ],
+    "meanings": [
+      "To fight on horseback as a knight or man-at-arms",
+      "To engage in combat with lances on horseback",
+      "To engage in combat or competition as if in a joust"
+    ],
+    "synonyms": [
+      "fight",
+      "battle",
+      "duel",
+      "wrestle",
+      "bat"
+    ],
+    "antonyms": [
+      "submit",
+      "give up",
+      "surrender",
+      "truce"
+    ]
+  },
+  "jove": {
+    "uk_ipa": "/dʒəʊv/",
+    "us_ipa": "/dʒəʊv/",
+    "examples": [],
+    "meanings": [
+      "Jupitersense 1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
   "jovial": {
     "uk_ipa": "/ˈdʒəʊviəl/",
     "us_ipa": "/ˈdʒəʊviəl/",
@@ -2368,9 +3920,9 @@
       "He addressed Molly in his usual jovial manner."
     ],
     "meanings": [
-      "characterized by good-humored cheerfulness and conviviality:jolly",
-      "of or relating toJove",
-      "full of or expressing good humor"
+      "Characterized by good-humored cheerfulness and conviviality:jolly",
+      "Of or relating tojove",
+      "Full of or expressing good humor"
     ],
     "synonyms": [
       "jolly",
@@ -2387,6 +3939,107 @@
       "blue"
     ]
   },
+  "joviality": {
+    "uk_ipa": "/ˌdʒəʊviˈæləti/",
+    "us_ipa": "/ˌdʒəʊviˈæləti/",
+    "examples": [],
+    "meanings": [
+      "Characterized by good-humored cheerfulness and conviviality:jolly",
+      "Of or relating tojove",
+      "Full of or expressing good humor"
+    ],
+    "synonyms": [
+      "cheerfulness",
+      "glee",
+      "merriness",
+      "festivity",
+      "cheer"
+    ],
+    "antonyms": [
+      "sadness",
+      "sorrow",
+      "unhappiness",
+      "melancholy",
+      "dejection"
+    ]
+  },
+  "jovially": {
+    "uk_ipa": "/ˈdʒəʊviəli/",
+    "us_ipa": "/ˈdʒəʊviəli/",
+    "examples": [],
+    "meanings": [
+      "Characterized by good-humored cheerfulness and conviviality:jolly",
+      "Of or relating tojove",
+      "Full of or expressing good humor"
+    ],
+    "synonyms": [
+      "cheerfully",
+      "happily",
+      "brightly",
+      "gayly",
+      "cheerily"
+    ],
+    "antonyms": [
+      "heavily",
+      "unhappily",
+      "darkly",
+      "morosely",
+      "miserably"
+    ]
+  },
+  "jowl": {
+    "uk_ipa": "/dʒaʊl/",
+    "us_ipa": "/dʒaʊl/",
+    "examples": [
+      "a man with heavy jowls",
+      "The guests, packed cheek by jowl, parted as he entered."
+    ],
+    "meanings": [
+      "Usually slack flesh (such as a dewlap, wattle, or the pendulous part of a double chin) associated with the cheeks, lower jaw, or throat",
+      "Cheeksense 1",
+      "The cheek meat of a hog"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  "joy": {
+    "uk_ipa": "/dʒɔɪ/",
+    "us_ipa": "/dʒɔɪ/",
+    "examples": [
+      "Her books have brought joy to millions.",
+      "the joy of discovery",
+      "the sheer joy of being with her again"
+    ],
+    "meanings": [
+      "The emotion evoked by well-being, success, or good fortune or by the prospect of possessing what one desires:delight",
+      "The expression or exhibition of such emotion:gaiety",
+      "A state of happiness or felicity:bliss"
+    ],
+    "synonyms": [
+      "happiness",
+      "bliss",
+      "blissfulness",
+      "joyfulness",
+      "enjoyment"
+    ],
+    "antonyms": [
+      "sadness",
+      "misery",
+      "unhappiness",
+      "sorrow",
+      "calamity"
+    ]
+  },
+  "joyce": {
+    "uk_ipa": "/dʒɔɪs/",
+    "us_ipa": "/dʒɔɪs/",
+    "examples": [],
+    "meanings": [
+      "James (augustine aloysius) 1882–1941 irish writer"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
   "joyful": {
     "uk_ipa": "/ˈdʒɔɪfl/",
     "us_ipa": "/ˈdʒɔɪfl/",
@@ -2395,8 +4048,8 @@
       "It was a joyful reunion of all the family."
     ],
     "meanings": [
-      "experiencing, causing, or showingjoy:happy",
-      "feeling, causing, or showing joy"
+      "Experiencing, causing, or showingjoy:happy",
+      "Feeling, causing, or showing joy"
     ],
     "synonyms": [
       "thankful",
@@ -2420,8 +4073,8 @@
       "They welcomed him joyfully."
     ],
     "meanings": [
-      "experiencing, causing, or showingjoy:happy",
-      "feeling, causing, or showing joy"
+      "Experiencing, causing, or showingjoy:happy",
+      "Feeling, causing, or showing joy"
     ],
     "synonyms": [
       "joyously",
@@ -2438,14 +4091,116 @@
       "morosely"
     ]
   },
+  "joyfulness": {
+    "uk_ipa": "/ˈdʒɔɪflnəs/",
+    "us_ipa": "/ˈdʒɔɪflnəs/",
+    "examples": [
+      "the joyfulness of the occasion"
+    ],
+    "meanings": [
+      "Experiencing, causing, or showingjoy:happy",
+      "Feeling, causing, or showing joy"
+    ],
+    "synonyms": [
+      "cheerfulness",
+      "exuberance",
+      "gayety",
+      "contentment",
+      "jubilation"
+    ],
+    "antonyms": [
+      "melancholy",
+      "depression",
+      "sadness",
+      "sorrow",
+      "dejection"
+    ]
+  },
+  "joyless": {
+    "uk_ipa": "/ˈdʒɔɪləs/",
+    "us_ipa": "/ˈdʒɔɪləs/",
+    "examples": [
+      "a joyless childhood"
+    ],
+    "meanings": [
+      "The emotion evoked by well-being, success, or good fortune or by the prospect of possessing what one desires:delight",
+      "The expression or exhibition of such emotion:gaiety",
+      "A state of happiness or felicity:bliss"
+    ],
+    "synonyms": [
+      "unhappy",
+      "sad",
+      "miserable",
+      "depressed",
+      "heartbroken"
+    ],
+    "antonyms": [
+      "joyous",
+      "joyful",
+      "cheerful",
+      "happy",
+      "blissful"
+    ]
+  },
+  "joyous": {
+    "uk_ipa": "/ˈdʒɔɪəs/",
+    "us_ipa": "/ˈdʒɔɪəs/",
+    "examples": [
+      "joyous laughter",
+      "She could now enjoy the joyous prospect of being reunited with him again."
+    ],
+    "meanings": [
+      "Joyful",
+      "Feeling, causing, or showing joy:joyful"
+    ],
+    "synonyms": [
+      "thankful",
+      "delighted",
+      "pleased",
+      "happy",
+      "glad"
+    ],
+    "antonyms": [
+      "sad",
+      "unhappy",
+      "joyless",
+      "dissatisfied",
+      "unsatisfied"
+    ]
+  },
+  "joyously": {
+    "uk_ipa": "/ˈdʒɔɪəsli/",
+    "us_ipa": "/ˈdʒɔɪəsli/",
+    "examples": [
+      "People joyously celebrated in the streets."
+    ],
+    "meanings": [
+      "Joyful",
+      "Feeling, causing, or showing joy:joyful"
+    ],
+    "synonyms": [
+      "joyfully",
+      "exuberantly",
+      "giddily",
+      "cheerfully",
+      "gayly"
+    ],
+    "antonyms": [
+      "unhappily",
+      "heavily",
+      "darkly",
+      "miserably",
+      "morosely"
+    ]
+  },
   "joyride": {
     "uk_ipa": "/ˈdʒɔɪraɪd/",
     "us_ipa": "/ˈdʒɔɪraɪd/",
     "examples": [],
     "meanings": [
-      "a ride taken for pleasure (as in a car or aircraft)",
-      "an automobile ride marked by reckless driving (as in a stolen car)",
-      "conduct or action resembling a joyride especially in disregard of cost or consequences"
+      "A ride taken for pleasure (as in a car or aircraft)",
+      "An automobile ride marked by reckless driving (as in a stolen car)",
+      "Conduct or action resembling a joyride especially in disregard of cost or consequences"
     ],
     "synonyms": [
       "transit",
@@ -2469,9 +4224,19 @@
       "You can direct your spaceship around the screen using the mouse, the keyboard or a joystick."
     ],
     "meanings": [
-      "a lever in an airplane that operates the elevators by a fore-and-aft motion and the ailerons by a side-to-side motion",
-      "a control for any of various devices (such as a computer) that resembles an airplane's joystick especially in being capable of motion in two or more directions",
-      "a control lever for a device (as a computer display or an airplane) that allows motion in two or more directions"
+      "A lever in an airplane that operates the elevators by a fore-and-aft motion and the ailerons by a side-to-side motion",
+      "A control for any of various devices (such as a computer) that resembles an airplane's joystick especially in being capable of motion in two or more directions",
+      "A control lever for a device (as a computer display or an airplane) that allows motion in two or more directions"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  "juan": {
+    "uk_ipa": "/ˌhwɑːn ˌpɒnseɪ deɪ leɪˈɒn/",
+    "us_ipa": "/ˌhwɑːn ˌpɑːnseɪ deɪ leɪˈəʊn/",
+    "examples": [],
+    "meanings": [
+      "A legendary spaniard proverbial for his seduction of women"
     ],
     "synonyms": [],
     "antonyms": []
@@ -2483,8 +4248,8 @@
       "The fans were in jubilant mood after the victory."
     ],
     "meanings": [
-      "feeling or expressing great joy:exultant",
-      "feeling or expressing great joy:exultant"
+      "Feeling or expressing great joy:exultant",
+      "Feeling or expressing great joy:exultant"
     ],
     "synonyms": [
       "triumphant",
@@ -2501,14 +4266,64 @@
       "dejected"
     ]
   },
+  "jubilantly": {
+    "uk_ipa": "/ˈdʒuːbɪləntli/",
+    "us_ipa": "/ˈdʒuːbɪləntli/",
+    "examples": [],
+    "meanings": [
+      "Feeling or expressing great joy:exultant",
+      "Feeling or expressing great joy:exultant"
+    ],
+    "synonyms": [
+      "triumphant",
+      "ecstatic",
+      "proud",
+      "exultant",
+      "rejoicing"
+    ],
+    "antonyms": [
+      "defeated",
+      "depressed",
+      "downcast",
+      "disconsolate",
+      "dejected"
+    ]
+  },
+  "jubilation": {
+    "uk_ipa": "/ˌdʒuːbɪˈleɪʃn/",
+    "us_ipa": "/ˌdʒuːbɪˈleɪʃn/",
+    "examples": [
+      "There were scenes of jubilation among her supporters.",
+      "their jubilation at reaching the final"
+    ],
+    "meanings": [
+      "An act of rejoicing:the state of beingjubilant",
+      "An expression of great joy",
+      "An act of rejoicing:the state of being jubilant"
+    ],
+    "synonyms": [
+      "joyfulness",
+      "cheerfulness",
+      "joy",
+      "glee",
+      "cheer"
+    ],
+    "antonyms": [
+      "sorrow",
+      "anguish",
+      "agony",
+      "woe",
+      "desolation"
+    ]
+  },
   "jubilee": {
     "uk_ipa": "/ˈdʒuːbɪliː/",
     "us_ipa": "/ˈdʒuːbɪliː/",
     "examples": [],
     "meanings": [
-      "a special anniversary",
-      "a 50th anniversary",
-      "a celebration of such an anniversary"
+      "A special anniversary",
+      "A 50th anniversary",
+      "A celebration of such an anniversary"
     ],
     "synonyms": [
       "celebration",
@@ -2519,14 +4334,26 @@
     ],
     "antonyms": []
   },
+  "judaic": {
+    "uk_ipa": "/dʒuːˈdeɪɪk/",
+    "us_ipa": "/dʒuːˈdeɪɪk/",
+    "examples": [
+      "Judaic tradition"
+    ],
+    "meanings": [
+      "Of, relating to, or characteristic of jews orjudaism"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
   "judaism": {
     "uk_ipa": "/ˈdʒuːdeɪɪzəm/",
     "us_ipa": "/ˈdʒuːdiɪzəm/",
     "examples": [],
     "meanings": [
-      "a religion developed among the ancient Hebrews and characterized by belief in one transcendent God who has revealed himself to Abraham, Moses, and the Hebrew prophets and by a religious life in accordance with Scriptures and rabbinic traditions",
-      "the cultural, social, and religious beliefs and practices of the Jews",
-      "conformity to Jewish rites, ceremonies, and practices"
+      "A religion developed among the ancient hebrews and characterized by belief in one transcendent god who has revealed himself to abraham, moses, and the hebrew prophets and by a religious life in accordance with scriptures and rabbinic traditions",
+      "The cultural, social, and religious beliefs and practices of the jews",
+      "Conformity to jewish rites, ceremonies, and practices"
     ],
     "synonyms": [],
     "antonyms": []
@@ -2536,9 +4363,9 @@
     "us_ipa": "/ˈdʒuːdəs/",
     "examples": [],
     "meanings": [
-      "the apostle who in the Gospel accounts betrayed Jesus",
-      "a son of James and one of the twelve apostles",
-      "traitor"
+      "The apostle who in the gospel accounts betrayed jesus",
+      "A son of james and one of the twelve apostles",
+      "Traitor"
     ],
     "synonyms": [
       "traitor",
@@ -2549,17 +4376,64 @@
     ],
     "antonyms": []
   },
+  "judder": {
+    "uk_ipa": "/ˈdʒʌdə(r)/",
+    "us_ipa": "/ˈdʒʌdər/",
+    "examples": [
+      "He slammed on the brakes and the car juddered to a halt."
+    ],
+    "meanings": [
+      "To vibrate with intensity",
+      "The action or sound ofjuddering"
+    ],
+    "synonyms": [
+      "shake",
+      "shudder",
+      "jerk",
+      "vibrate",
+      "tremble"
+    ],
+    "antonyms": []
+  },
   "jude": {
     "uk_ipa": "/dʒuːd/",
     "us_ipa": "/dʒuːd/",
     "examples": [],
     "meanings": [
-      "the author of the New Testament Epistle of Jude",
-      "a short hortatory epistle addressed to early Christians and included as a book in the New TestamentseeBible Table",
-      "a short epistle addressed to early Christians and included as a book in the New Testamentseebible"
+      "The author of the new testament epistle of jude",
+      "A short hortatory epistle addressed to early christians and included as a book in the new testamentseebible table",
+      "A short epistle addressed to early christians and included as a book in the new testamentseebible"
     ],
     "synonyms": [],
     "antonyms": []
+  },
+  "judge": {
+    "uk_ipa": "/dʒʌdʒ/",
+    "us_ipa": "/dʒʌdʒ/",
+    "examples": [
+      "a High Court judge",
+      "a federal/district judge",
+      "the presiding trial judge"
+    ],
+    "meanings": [
+      "One who makesjudgments: such as",
+      "A public official authorized to decide questions brought before a court",
+      "One appointed to decide in a contest or competition:umpire"
+    ],
+    "synonyms": [
+      "referee",
+      "umpire",
+      "magistrate",
+      "arbitrator",
+      "arbiter"
+    ],
+    "antonyms": [
+      "hedge",
+      "skirt",
+      "equivocate",
+      "pussyfoot",
+      "measure"
+    ]
   },
   "judgement": {
     "uk_ipa": "/ˈdʒʌdʒmənt/",
@@ -2570,9 +4444,9 @@
       "It's not something I can give you rules for—you'll have to use your judgement."
     ],
     "meanings": [
-      "the process of forming an opinion or evaluation bydiscerningand comparing",
-      "an opinion or estimate so formed",
-      "the capacity forjudging:discernment"
+      "The process of forming an opinion or evaluation bydiscerningand comparing",
+      "An opinion or estimate so formed",
+      "The capacity forjudging:discernment"
     ],
     "synonyms": [
       "verdict",
@@ -2589,15 +4463,24 @@
       "stalemate"
     ]
   },
-  "judgemental": {
-    "uk_ipa": "/dʒʌdʒˈmentl/",
-    "us_ipa": "/dʒʌdʒˈmentl/",
+  "judicature": {
+    "uk_ipa": "/ˈdʒuːdɪkətʃə(r)/",
+    "us_ipa": "/ˈdʒuːdɪkətʃər/",
     "examples": [
-      "Stop always being so judgemental!",
-      "the judgemental process"
+      "The judicature is/are expected to deliver judgment on the case."
     ],
-    "meanings": [],
-    "synonyms": [],
+    "meanings": [
+      "The action of judging:the administration of justice",
+      "A court of justice",
+      "Judiciarysense 1"
+    ],
+    "synonyms": [
+      "judiciary",
+      "tribunal",
+      "judicatory",
+      "court",
+      "criminal court"
+    ],
     "antonyms": []
   },
   "judicial": {
@@ -2609,9 +4492,23 @@
       "Greenpeace applied for a judicial review to challenge the court’s decision."
     ],
     "meanings": [
-      "of or relating to a judgment, the function of judging, the administration of justice, or thejudiciary",
-      "belonging to the branch of government that is charged with trying all cases that involve the government and with the administration of justice within itsjurisdictioncompareexecutive,legislative",
-      "ordered or enforced by a court"
+      "Of or relating to a judgment, the function of judging, the administration of justice, or thejudiciary",
+      "Belonging to the branch of government that is charged with trying all cases that involve the government and with the administration of justice within itsjurisdictioncompareexecutive,legislative",
+      "Ordered or enforced by a court"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  "judicially": {
+    "uk_ipa": "/dʒuˈdɪʃəli/",
+    "us_ipa": "/dʒuˈdɪʃəli/",
+    "examples": [
+      "They appealed to have the tax changes judicially reviewed."
+    ],
+    "meanings": [
+      "Of or relating to a judgment, the function of judging, the administration of justice, or thejudiciary",
+      "Belonging to the branch of government that is charged with trying all cases that involve the government and with the administration of justice within itsjurisdictioncompareexecutive,legislative",
+      "Ordered or enforced by a court"
     ],
     "synonyms": [],
     "antonyms": []
@@ -2624,9 +4521,9 @@
       "The judiciary is/are independent of the other branches of government."
     ],
     "meanings": [
-      "a system of courts of law",
-      "the judges of these courts",
-      "a branch of government in whichjudicialpower is vested"
+      "A system of courts of law",
+      "The judges of these courts",
+      "A branch of government in whichjudicialpower is vested"
     ],
     "synonyms": [
       "bar",
@@ -2645,8 +4542,8 @@
       "Some dishes would be very bland without the judicious use of spices and other seasonings."
     ],
     "meanings": [
-      "having, exercising, or characterized by sound judgment",
-      "having, exercising, or characterized by sound judgment"
+      "Having, exercising, or characterized by sound judgment",
+      "Having, exercising, or characterized by sound judgment"
     ],
     "synonyms": [
       "intelligent",
@@ -2663,6 +4560,43 @@
       "rash"
     ]
   },
+  "judiciously": {
+    "uk_ipa": "/dʒuˈdɪʃəsli/",
+    "us_ipa": "/dʒuˈdɪʃəsli/",
+    "examples": [
+      "a judiciously worded letter"
+    ],
+    "meanings": [
+      "Having, exercising, or characterized by sound judgment",
+      "Having, exercising, or characterized by sound judgment"
+    ],
+    "synonyms": [
+      "wisely",
+      "prudently",
+      "sensibly",
+      "discreetly",
+      "justifiably"
+    ],
+    "antonyms": [
+      "thoughtlessly",
+      "rudely",
+      "contemptuously",
+      "cruelly",
+      "inconsiderately"
+    ]
+  },
+  "judith": {
+    "uk_ipa": "/ˈdʒuːdɪθ/",
+    "us_ipa": "/ˈdʒuːdɪθ/",
+    "examples": [],
+    "meanings": [
+      "The jewish heroine who saves the city of bethulia in the book of judith",
+      "A book of scripture included in the roman catholic canon of the old testament and in the protestant apocryphaseebible table",
+      "A book of scripture included in the roman catholic canon of the old testament and in the protestant apocryphaseebible"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
   "judo": {
     "uk_ipa": "/ˈdʒuːdəʊ/",
     "us_ipa": "/ˈdʒuːdəʊ/",
@@ -2672,8 +4606,58 @@
       "She managed to get the man in a judo hold."
     ],
     "meanings": [
-      "a sport developed from jujitsu that emphasizes the use of quick movement and leverage to throw an opponent",
-      "a sport developed from jujitsu in which opponents attempt to throw each other by using quick movements and leverage"
+      "A sport developed from jujitsu that emphasizes the use of quick movement and leverage to throw an opponent",
+      "A sport developed from jujitsu in which opponents attempt to throw each other by using quick movements and leverage"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  "judy": {
+    "uk_ipa": "/ˈdʒuːdi/",
+    "us_ipa": "/ˈdʒuːdi/",
+    "examples": [],
+    "meanings": [
+      "Girl"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  "jug": {
+    "uk_ipa": "/dʒʌɡ/",
+    "us_ipa": "/dʒʌɡ/",
+    "examples": [
+      "a milk/water jug",
+      "a five-gallon jug of beer",
+      "She spilled a jug of water."
+    ],
+    "meanings": [
+      "A large deep container (as of glass, earthenware, or plastic) with a narrow mouth and a handle",
+      "The contents of such a container:jugful",
+      "A small pitcher"
+    ],
+    "synonyms": [
+      "pitcher",
+      "bottle",
+      "cup",
+      "flagon",
+      "flask"
+    ],
+    "antonyms": [
+      "outside",
+      "discharge",
+      "free",
+      "release",
+      "liberate"
+    ]
+  },
+  "jugful": {
+    "uk_ipa": "/ˈdʒʌɡfʊl/",
+    "us_ipa": "/ˈdʒʌɡfʊl/",
+    "examples": [],
+    "meanings": [
+      "As much as a jug will hold",
+      "A great deal",
+      "Jugentry1sense 1b"
     ],
     "synonyms": [],
     "antonyms": []
@@ -2686,8 +4670,8 @@
       "a bureaucratic juggernaut"
     ],
     "meanings": [
-      "a massiveinexorableforce, campaign, movement, or object that crushes whatever is in its path",
-      "a large heavy truck"
+      "A massiveinexorableforce, campaign, movement, or object that crushes whatever is in its path",
+      "A large heavy truck"
     ],
     "synonyms": [
       "campaign",
@@ -2707,9 +4691,9 @@
       "I was juggling books, shopping bags and the baby (= I was trying to hold them all without dropping them)."
     ],
     "meanings": [
-      "to perform the tricks of ajuggler",
-      "to engage in manipulation especially in order to achieve a desired end",
-      "to handle or deal with usually several things (such as obligations) at one time so as to satisfy often competing requirements"
+      "To perform the tricks of ajuggler",
+      "To engage in manipulation especially in order to achieve a desired end",
+      "To handle or deal with usually several things (such as obligations) at one time so as to satisfy often competing requirements"
     ],
     "synonyms": [
       "ruse",
@@ -2733,9 +4717,9 @@
       "At the moment the President is like a juggler with a lot of balls in the air at once."
     ],
     "meanings": [
-      "one skilled in keeping several objects in motion in the air at the same time by alternately tossing and catching them",
-      "one who performs tricks or acts of magic or deftness",
-      "one who manipulates especially in order to achieve a desired end"
+      "One skilled in keeping several objects in motion in the air at the same time by alternately tossing and catching them",
+      "One who performs tricks or acts of magic or deftness",
+      "One who manipulates especially in order to achieve a desired end"
     ],
     "synonyms": [],
     "antonyms": []
@@ -2747,9 +4731,9 @@
       "She went straight for the jugular and asked him to explain his previous criminal record."
     ],
     "meanings": [
-      "jugular vein",
-      "the most vital or vulnerable part of something",
-      "of or relating to the throat or neck"
+      "Jugular vein",
+      "The most vital or vulnerable part of something",
+      "Of or relating to the throat or neck"
     ],
     "synonyms": [
       "back",
@@ -2769,9 +4753,9 @@
       "lemon/lime juice"
     ],
     "meanings": [
-      "the extractable fluid contents of cells or tissues",
-      "a motivating, inspiring, or enabling force or factor",
-      "a medium (such as electricity or gasoline) that supplies power"
+      "The extractable fluid contents of cells or tissues",
+      "A motivating, inspiring, or enabling force or factor",
+      "A medium (such as electricity or gasoline) that supplies power"
     ],
     "synonyms": [
       "energy",
@@ -2788,6 +4772,30 @@
       "weakness"
     ]
   },
+  "juicer": {
+    "uk_ipa": "/ˈdʒuːsə(r)/",
+    "us_ipa": "/ˈdʒuːsər/",
+    "examples": [],
+    "meanings": [
+      "An appliance for extractingjuicefrom fruit or vegetables",
+      "A heavy or habitual drinker",
+      "An athlete who uses steroids"
+    ],
+    "synonyms": [
+      "alcoholic",
+      "drunk",
+      "drinker",
+      "toper",
+      "drunkard"
+    ],
+    "antonyms": [
+      "abstainer",
+      "teetotaler",
+      "teetotaller",
+      "nondrinker",
+      "teetotalist"
+    ]
+  },
   "juicy": {
     "uk_ipa": "/ˈdʒuːsi/",
     "us_ipa": "/ˈdʒuːsi/",
@@ -2797,9 +4805,9 @@
       "The birds come searching for juicy worms and grubs."
     ],
     "meanings": [
-      "having muchjuice:succulent",
-      "rewarding or profitable especially financially:fat",
-      "rich in interest:colorful"
+      "Having muchjuice:succulent",
+      "Rewarding or profitable especially financially:fat",
+      "Rich in interest:colorful"
     ],
     "synonyms": [
       "fleshy",
@@ -2821,9 +4829,9 @@
     "us_ipa": "/ˈdʒuːdʒuː/",
     "examples": [],
     "meanings": [
-      "a fetish, charm, or amulet of West African peoples",
-      "the magic attributed to or associated withjujus",
-      "a style of West African music that is characterized by a rapid beat, the use of percussion instruments, and vocal harmonies"
+      "A fetish, charm, or amulet of west african peoples",
+      "The magic attributed to or associated withjujus",
+      "A style of west african music that is characterized by a rapid beat, the use of percussion instruments, and vocal harmonies"
     ],
     "synonyms": [
       "gris-gris",
@@ -2840,6 +4848,27 @@
       "hex"
     ]
   },
+  "juke": {
+    "uk_ipa": "/dʒuːk/",
+    "us_ipa": "/dʒuːk/",
+    "examples": [
+      "Cruz juked the goalkeeper and shot the ball into a gaping net.",
+      "The quarterback juked to the left side of the field.",
+      "The police don't just juke the stats. They make 'em up."
+    ],
+    "meanings": [
+      "To fake out of position (as in football)",
+      "To juke someone"
+    ],
+    "synonyms": [
+      "evade",
+      "dodge",
+      "fake",
+      "deke",
+      "slip"
+    ],
+    "antonyms": []
+  },
   "jukebox": {
     "uk_ipa": "/ˈdʒuːkbɒks/",
     "us_ipa": "/ˈdʒuːkbɑːks/",
@@ -2847,9 +4876,9 @@
       "Their favourite song was playing on the jukebox."
     ],
     "meanings": [
-      "a coin-operated phonograph or compact-disc player that automatically plays recordings selected from its list",
-      "any automatic music player that plays selections from a publicly available list",
-      "a coin-operated phonograph or compact-disc player that automatically plays recordings selected from its list"
+      "A coin-operated phonograph or compact-disc player that automatically plays recordings selected from its list",
+      "Any automatic music player that plays selections from a publicly available list",
+      "A coin-operated phonograph or compact-disc player that automatically plays recordings selected from its list"
     ],
     "synonyms": [],
     "antonyms": []
@@ -2859,30 +4888,120 @@
     "us_ipa": "/ˈdʒuːlɪp/",
     "examples": [],
     "meanings": [
-      "a drink consisting of a liquor (such as bourbon or brandy) and sugar poured over crushed ice and garnished with mint",
-      "a drink consisting of sweet syrup, flavoring, and water",
-      "a drink of bourbon, sugar, and mint served with crushed ice"
+      "A drink consisting of a liquor (such as bourbon or brandy) and sugar poured over crushed ice and garnished with mint",
+      "A drink consisting of sweet syrup, flavoring, and water",
+      "A drink of bourbon, sugar, and mint served with crushed ice"
     ],
     "synonyms": [],
     "antonyms": []
   },
-  "juliet": {
-    "uk_ipa": "/ˈdʒuːliət/",
-    "us_ipa": "/ˈdʒuːliət/",
+  "julian": {
+    "uk_ipa": "/ˈdʒuːliən/",
+    "us_ipa": "/ˈdʒuːliən/",
     "examples": [],
     "meanings": [
-      "the heroine of Shakespeare's tragedyRomeo and Julietwho dies for love of Romeo"
+      "Circa331–363flavius claudius julianus, the apostateroman emperor (361–363)"
     ],
     "synonyms": [],
     "antonyms": []
+  },
+  "julienne": {
+    "uk_ipa": "/ˌdʒuːliˈen/",
+    "us_ipa": "/ˌdʒuːliˈen/",
+    "examples": [
+      "julienne carrots"
+    ],
+    "meanings": [
+      "A preparation or garnish of food that has been cut into thin strips",
+      "Food (such as meat or vegetables) that has been cut into thin strips",
+      "A consommé containing vegetables cut into thin strips"
+    ],
+    "synonyms": [
+      "chop",
+      "dice",
+      "mince",
+      "slice",
+      "chip"
+    ],
+    "antonyms": []
+  },
+  "july": {
+    "uk_ipa": "/dʒuˈlaɪ/",
+    "us_ipa": "/dʒuˈlaɪ/",
+    "examples": [
+      "She was born in July.",
+      "The meeting is on the fifth of July/July the fifth.",
+      "The meeting is on July fifth."
+    ],
+    "meanings": [
+      "The seventh month of the gregorian calendar",
+      "The seventh month of the year"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  "jumble": {
+    "uk_ipa": "/ˈdʒʌmbl/",
+    "us_ipa": "/ˈdʒʌmbl/",
+    "examples": [
+      "Books, shoes and clothes were jumbled together on the floor.",
+      "The letters in these words have been jumbled up.",
+      "She put the raffle tickets into a bag and jumbled them up."
+    ],
+    "meanings": [
+      "To move in a confused or disordered manner",
+      "To mix into a confused or disordered mass",
+      "A mass of things mingled together without order or plan:hodgepodge"
+    ],
+    "synonyms": [
+      "mess",
+      "havoc",
+      "chaos",
+      "hell",
+      "confusion"
+    ],
+    "antonyms": [
+      "order",
+      "system",
+      "orderliness",
+      "plan",
+      "pattern"
+    ]
+  },
+  "jumbled": {
+    "uk_ipa": "/ˈdʒʌmbld/",
+    "us_ipa": "/ˈdʒʌmbld/",
+    "examples": [
+      "a jumbled collection of objects",
+      "jumbled thoughts"
+    ],
+    "meanings": [
+      "To move in a confused or disordered manner",
+      "To mix into a confused or disordered mass",
+      "A mass of things mingled together without order or plan:hodgepodge"
+    ],
+    "synonyms": [
+      "messy",
+      "chaotic",
+      "littered",
+      "confused",
+      "cluttered"
+    ],
+    "antonyms": [
+      "orderly",
+      "organized",
+      "neat",
+      "tidy",
+      "uncluttered"
+    ]
   },
   "jumbo": {
     "uk_ipa": "/ˈdʒʌmbəʊ/",
     "us_ipa": "/ˈdʒʌmbəʊ/",
     "examples": [],
     "meanings": [
-      "a very large specimen of its kind",
-      "something very large of its kind"
+      "A very large specimen of its kind",
+      "Something very large of its kind"
     ],
     "synonyms": [
       "giant",
@@ -2899,6 +5018,34 @@
       "diminutive"
     ]
   },
+  "jump": {
+    "uk_ipa": "/dʒʌmp/",
+    "us_ipa": "/dʒʌmp/",
+    "examples": [
+      "‘Quick, jump!’ he shouted.",
+      "She jumped into the water to save them.",
+      "He jumped into the air and started cheering."
+    ],
+    "meanings": [
+      "To spring into the air:leap",
+      "To spring free from the ground or other base by the muscular action of feet and legs",
+      "To move suddenly or involuntarily:start"
+    ],
+    "synonyms": [
+      "leap",
+      "hop",
+      "bound",
+      "spring",
+      "vault"
+    ],
+    "antonyms": [
+      "crawl",
+      "creep",
+      "drag",
+      "poke",
+      "hang (aroundorout)"
+    ]
+  },
   "jumper": {
     "uk_ipa": "/ˈdʒʌmpə(r)/",
     "us_ipa": "/ˈdʒʌmpər/",
@@ -2907,9 +5054,9 @@
       "He's a good jumper."
     ],
     "meanings": [
-      "a person whojumps",
-      "jump shot",
-      "any of severaljumpinganimals"
+      "A person whojumps",
+      "Jump shot",
+      "Any of severaljumpinganimals"
     ],
     "synonyms": [
       "kimono",
@@ -2920,6 +5067,18 @@
     ],
     "antonyms": []
   },
+  "jumpsuit": {
+    "uk_ipa": "/ˈdʒʌmpsuːt/",
+    "us_ipa": "/ˈdʒʌmpsuːt/",
+    "examples": [],
+    "meanings": [
+      "A one-piece garment consisting of a blouse or shirt with attached trousers or shorts",
+      "A coverall worn by parachutists forjumping",
+      "A uniform worn by parachutists for jumping"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
   "jumpy": {
     "uk_ipa": "/ˈdʒʌmpi/",
     "us_ipa": "/ˈdʒʌmpi/",
@@ -2927,9 +5086,9 @@
       "What's the matter? You're so jumpy this evening."
     ],
     "meanings": [
-      "nervous,jittery",
-      "characterized byjumpsor sudden variations",
-      "nervoussense 2a,jittery"
+      "Nervous,jittery",
+      "Characterized byjumpsor sudden variations",
+      "Nervoussense 2a,jittery"
     ],
     "synonyms": [
       "excitable",
@@ -2955,9 +5114,9 @@
       "The most complicated motorway interchange in Britain is known as Spaghetti Junction."
     ],
     "meanings": [
-      "an act of joining:the state of being joined",
-      "a place or point of meeting",
-      "an intersection of roads especially where one terminates"
+      "An act of joining:the state of being joined",
+      "A place or point of meeting",
+      "An intersection of roads especially where one terminates"
     ],
     "synonyms": [
       "intersection",
@@ -2982,9 +5141,9 @@
       "At this juncture, I would like to make an important announcement."
     ],
     "meanings": [
-      "a point of time",
-      "one made critical by a concurrence of circumstances",
-      "joint,connection"
+      "A point of time",
+      "One made critical by a concurrence of circumstances",
+      "Joint,connection"
     ],
     "synonyms": [
       "point",
@@ -3010,8 +5169,18 @@
       "The meeting is on June fifth."
     ],
     "meanings": [
-      "the sixth month of the Gregorian calendar",
-      "the sixth month of the year"
+      "The sixth month of the gregorian calendar",
+      "The sixth month of the year"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  "juneau": {
+    "uk_ipa": "/ˈdʒuːnəʊ/",
+    "us_ipa": "/ˈdʒuːnəʊ/",
+    "examples": [],
+    "meanings": [
+      "City and port on gastineau channel in the southeastern coastal strip of alaskapopulation31,275"
     ],
     "synonyms": [],
     "antonyms": []
@@ -3025,9 +5194,9 @@
       "jungle warfare"
     ],
     "meanings": [
-      "an impenetrable thicket or tangled mass of tropical vegetation",
-      "a tract overgrown with thickets or masses of vegetation",
-      "a confused or disordered mass of objects:jumble"
+      "An impenetrable thicket or tangled mass of tropical vegetation",
+      "A tract overgrown with thickets or masses of vegetation",
+      "A confused or disordered mass of objects:jumble"
     ],
     "synonyms": [
       "jumble",
@@ -3047,9 +5216,9 @@
       "He's a member of the club's junior team."
     ],
     "meanings": [
-      "less advanced in age:younger",
-      "youthful",
-      "designed for young people and especially adolescents"
+      "Less advanced in age:younger",
+      "Youthful",
+      "Designed for young people and especially adolescents"
     ],
     "synonyms": [
       "smaller",
@@ -3071,12 +5240,40 @@
     "us_ipa": "/ˈdʒuːnɪpər/",
     "examples": [],
     "meanings": [
-      "any of numerous shrubs or trees (genusJuniperus) of the cypress family with leaves resembling needles or scales and female cones usually resembling berries",
-      "the berrylike cone or fruit of a juniper",
-      "the bluish one of a common juniper (J. communis) which is used to flavor foods and from which is obtained an acrid essential oil used especially as a flavoring in gin and liqueurs"
+      "Any of numerous shrubs or trees (genusjuniperus) of the cypress family with leaves resembling needles or scales and female cones usually resembling berries",
+      "The berrylike cone or fruit of a juniper",
+      "The bluish one of a common juniper (j. communis) which is used to flavor foods and from which is obtained an acrid essential oil used especially as a flavoring in gin and liqueurs"
     ],
     "synonyms": [],
     "antonyms": []
+  },
+  "junk": {
+    "uk_ipa": "/dʒʌŋk/",
+    "us_ipa": "/dʒʌŋk/",
+    "examples": [
+      "I've cleared out all that old junk in the attic.",
+      "There's nothing but junk on the TV.",
+      "Is this all your junk (= are these all your things)?"
+    ],
+    "meanings": [
+      "Old iron, glass, paper, or other waste that may be used again in some form",
+      "Secondhand, worn, or discarded articles",
+      "Cluttersense 1b"
+    ],
+    "synonyms": [
+      "cheese",
+      "rubbish",
+      "trash",
+      "muck",
+      "camp"
+    ],
+    "antonyms": [
+      "treasure",
+      "trove",
+      "prize",
+      "pearl",
+      "gem"
+    ]
   },
   "junker": {
     "uk_ipa": "/ˈdʒʌŋkə(r)/",
@@ -3085,8 +5282,8 @@
       "When my junker died, I couldn't find a vehicle that I liked."
     ],
     "meanings": [
-      "something (such as an automobile) of such age and condition as to be ready for scrapping",
-      "a member of the Prussian landed aristocracy"
+      "Something (such as an automobile) of such age and condition as to be ready for scrapping",
+      "A member of the prussian landed aristocracy"
     ],
     "synonyms": [
       "crate",
@@ -3102,9 +5299,9 @@
     "us_ipa": "/ˈdʒʌŋkɪt/",
     "examples": [],
     "meanings": [
-      "trip,journey: such as",
-      "a trip made by an official at public expense",
-      "a promotional trip made at another's expense"
+      "Trip,journey: such as",
+      "A trip made by an official at public expense",
+      "A promotional trip made at another's expense"
     ],
     "synonyms": [
       "excursion",
@@ -3120,9 +5317,9 @@
     "us_ipa": "/ˈdʒʌŋki/",
     "examples": [],
     "meanings": [
-      "a person who is addicted to narcotics and especially to heroin",
-      "a person who gets an unusual amount of pleasure from or has an unusual amount of interest in something",
-      "a junk dealer"
+      "A person who is addicted to narcotics and especially to heroin",
+      "A person who gets an unusual amount of pleasure from or has an unusual amount of interest in something",
+      "A junk dealer"
     ],
     "synonyms": [
       "addict",
@@ -3139,6 +5336,46 @@
       "nonfan"
     ]
   },
+  "junky": {
+    "uk_ipa": "/ˈdʒʌŋki/",
+    "us_ipa": "/ˈdʒʌŋki/",
+    "examples": [],
+    "meanings": [
+      "Of inferior quality especially due to being worn out or cheaply made:having the character ofjunk",
+      "A person who is addicted to narcotics and especially to heroin",
+      "A person who gets an unusual amount of pleasure from or has an unusual amount of interest in something"
+    ],
+    "synonyms": [
+      "worthless",
+      "empty",
+      "cheap",
+      "no-good",
+      "valueless"
+    ],
+    "antonyms": [
+      "valuable",
+      "worthy",
+      "useful",
+      "invaluable",
+      "precious"
+    ]
+  },
+  "junkyard": {
+    "uk_ipa": "/ˈdʒʌŋkjɑːd/",
+    "us_ipa": "/ˈdʒʌŋkjɑːrd/",
+    "examples": [],
+    "meanings": [
+      "A yard used to store sometimes resalable junk"
+    ],
+    "synonyms": [
+      "landfill",
+      "dustbin",
+      "midden",
+      "dump",
+      "sanitary landfill"
+    ],
+    "antonyms": []
+  },
   "junta": {
     "uk_ipa": "/ˈdʒʌntə/",
     "us_ipa": "/ˈhʊntə/",
@@ -3146,9 +5383,9 @@
       "The civilian junta appointed a prime minister."
     ],
     "meanings": [
-      "a council or committee for political or governmental purposes",
-      "a group of persons controlling a government especially after a revolutionary seizure of power",
-      "junto"
+      "A council or committee for political or governmental purposes",
+      "A group of persons controlling a government especially after a revolutionary seizure of power",
+      "Junto"
     ],
     "synonyms": [
       "mob",
@@ -3164,9 +5401,33 @@
     "us_ipa": "/ˈdʒuːpɪtər/",
     "examples": [],
     "meanings": [
-      "the chief Roman god, husband of Juno, and god of light, of the sky and weather, and of the state and its welfare and its lawscomparezeus",
-      "the largest of the planets and fifth in order from the sunseePlanets Table",
-      "the largest of the planets and fifth in order of distance from the sunseeplanet"
+      "The chief roman god, husband of juno, and god of light, of the sky and weather, and of the state and its welfare and its lawscomparezeus",
+      "The largest of the planets and fifth in order from the sunseeplanets table",
+      "The largest of the planets and fifth in order of distance from the sunseeplanet"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  "jurassic": {
+    "uk_ipa": "/dʒʊˈræsɪk/",
+    "us_ipa": "/dʒʊˈræsɪk/",
+    "examples": [],
+    "meanings": [
+      "Of, relating to, or being the period of the mesozoic era between the triassic and the cretaceous or the corresponding system of rocks marked by the presence of dinosaurs and the first appearance of birdsseegeologic time table",
+      "Of, relating to, or being a period of the mesozoic era of geological history marked by the presence of dinosaurs and the first appearance of birds",
+      "Relating to the corresponding system of rocksseegeologic time"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  "juridical": {
+    "uk_ipa": "/dʒʊəˈrɪdɪkl/",
+    "us_ipa": "/dʒʊˈrɪdɪkl/",
+    "examples": [],
+    "meanings": [
+      "Of or relating to the administration of justice or the office of a judge",
+      "Of or relating to law orjurisprudence:legal",
+      "Of or relating to the administration of justice or the office of a judge"
     ],
     "synonyms": [],
     "antonyms": []
@@ -3180,9 +5441,30 @@
       "These matters do not fall within our jurisdiction."
     ],
     "meanings": [
-      "the power, right, or authority to interpret and apply the law",
-      "the authority of a sovereign power to govern or legislate",
-      "the power or right to exercise authority:control"
+      "The power, right, or authority to interpret and apply the law",
+      "The authority of a sovereign power to govern or legislate",
+      "The power or right to exercise authority:control"
+    ],
+    "synonyms": [
+      "government",
+      "rule",
+      "governance",
+      "administration",
+      "regime"
+    ],
+    "antonyms": []
+  },
+  "jurisdictional": {
+    "uk_ipa": "/ˌdʒʊərɪsˈdɪkʃənl/",
+    "us_ipa": "/ˌdʒʊrɪsˈdɪkʃənl/",
+    "examples": [
+      "a serious jurisdictional error",
+      "jurisdictional boundaries"
+    ],
+    "meanings": [
+      "The power, right, or authority to interpret and apply the law",
+      "The authority of a sovereign power to govern or legislate",
+      "The power or right to exercise authority:control"
     ],
     "synonyms": [
       "government",
@@ -3201,9 +5483,9 @@
       "In American jurisprudence this is called judicial legislation."
     ],
     "meanings": [
-      "the science or philosophy of law",
-      "a system or body of law",
-      "the course of court decisions as distinguished from legislation and doctrine"
+      "The science or philosophy of law",
+      "A system or body of law",
+      "The course of court decisions as distinguished from legislation and doctrine"
     ],
     "synonyms": [
       "law",
@@ -3218,9 +5500,9 @@
     "us_ipa": "/ˈdʒʊrɪst/",
     "examples": [],
     "meanings": [
-      "one having a thorough knowledge of law",
-      "judge",
-      "one (as a lawyer or judge) having a thorough knowledge of law"
+      "One having a thorough knowledge of law",
+      "Judge",
+      "One (as a lawyer or judge) having a thorough knowledge of law"
     ],
     "synonyms": [
       "judge",
@@ -3238,9 +5520,9 @@
       "The judge instructed the jurors to disregard this information."
     ],
     "meanings": [
-      "a member of a jury",
-      "a person summoned to serve on a jury",
-      "a person who takes an oath (as of allegiance)"
+      "A member of a jury",
+      "A person summoned to serve on a jury",
+      "A person who takes an oath (as of allegiance)"
     ],
     "synonyms": [],
     "antonyms": []
@@ -3254,9 +5536,9 @@
       "to be/sit/serve on a jury"
     ],
     "meanings": [
-      "a body of persons sworn to give a verdict on some matter submitted to them",
-      "a body of persons legally selected and sworn to inquire into any matter of fact and to give their verdict according to the evidence",
-      "a committee for judging and awarding prizes at a contest or exhibition"
+      "A body of persons sworn to give a verdict on some matter submitted to them",
+      "A body of persons legally selected and sworn to inquire into any matter of fact and to give their verdict according to the evidence",
+      "A committee for judging and awarding prizes at a contest or exhibition"
     ],
     "synonyms": [
       "second",
@@ -3273,14 +5555,44 @@
       "equal"
     ]
   },
+  "juryman": {
+    "uk_ipa": "/ˈdʒʊərimən/",
+    "us_ipa": "/ˈdʒʊrimən/",
+    "examples": [],
+    "meanings": [
+      "Juror"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  "jurywoman": {
+    "uk_ipa": "/ˈdʒʊəriwʊmən/",
+    "us_ipa": "/ˈdʒʊriwʊmən/",
+    "examples": [],
+    "meanings": [
+      "A female juror"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
   "jus": {
     "uk_ipa": "/ʒuː/",
     "us_ipa": "/ʒuː/",
     "examples": [],
     "meanings": [
-      "juice obtained from roasting meat (such as beef or lamb):au jus",
-      "law",
-      "a legal principle or right"
+      "Juice obtained from roasting meat (such as beef or lamb):au jus",
+      "Law",
+      "A legal principle or right"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  "jussive": {
+    "uk_ipa": "/ˈdʒʌsɪv/",
+    "us_ipa": "/ˈdʒʌsɪv/",
+    "examples": [],
+    "meanings": [
+      "A word, form, case, or mood expressing command"
     ],
     "synonyms": [],
     "antonyms": []
@@ -3294,9 +5606,9 @@
       "I waited an hour just to see you."
     ],
     "meanings": [
-      "having a basis in or conforming to fact or reason:reasonable",
-      "conforming to a standard of correctness:proper",
-      "faithful to an original"
+      "Having a basis in or conforming to fact or reason:reasonable",
+      "Conforming to a standard of correctness:proper",
+      "Faithful to an original"
     ],
     "synonyms": [
       "exactly",
@@ -3322,9 +5634,9 @@
       "laws based on the principles of natural justice"
     ],
     "meanings": [
-      "the maintenance or administration of what isjustespecially by the impartial adjustment of conflicting claims or the assignment of merited rewards or punishments",
-      "judge",
-      "a judge of an appellate court or court of last resort (as a supreme court)"
+      "The maintenance or administration of what isjustespecially by the impartial adjustment of conflicting claims or the assignment of merited rewards or punishments",
+      "Judge",
+      "A judge of an appellate court or court of last resort (as a supreme court)"
     ],
     "synonyms": [
       "right",
@@ -3341,6 +5653,67 @@
       "bias"
     ]
   },
+  "justiciary": {
+    "uk_ipa": "/dʒʌˈstɪʃəri/",
+    "us_ipa": "/dʒəˈstɪʃieri/",
+    "examples": [],
+    "meanings": [
+      "The jurisdiction of ajusticiaror of the high court of justiciary which consists of original and appellate jurisdiction in serious criminal cases and appellate jurisdiction from sheriff's decisions in civil matters in the small-debts court",
+      "Justiciar"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  "justifiable": {
+    "uk_ipa": "/ˌdʒʌstɪˈfaɪəbl/",
+    "us_ipa": "/ˌdʒʌstɪˈfaɪəbl/",
+    "examples": [
+      "She took a justifiable pride in her son's achievements."
+    ],
+    "meanings": [
+      "Capable of beingjustified:excusable",
+      "Capable of being justified"
+    ],
+    "synonyms": [
+      "legitimate",
+      "acceptable",
+      "supportable",
+      "defendable",
+      "viable"
+    ],
+    "antonyms": [
+      "unjustifiable",
+      "untenable",
+      "irrational",
+      "ridiculous",
+      "unreasonable"
+    ]
+  },
+  "justifiably": {
+    "uk_ipa": "/ˌdʒʌstɪˈfaɪəbli/",
+    "us_ipa": "/ˌdʒʌstɪˈfaɪəbli/",
+    "examples": [
+      "The university can be justifiably proud of its record."
+    ],
+    "meanings": [
+      "Capable of beingjustified:excusable",
+      "Capable of being justified"
+    ],
+    "synonyms": [
+      "validly",
+      "fairly",
+      "pleasantly",
+      "excusably",
+      "sensibly"
+    ],
+    "antonyms": [
+      "rudely",
+      "thoughtlessly",
+      "contemptuously",
+      "scornfully",
+      "disdainfully"
+    ]
+  },
   "justification": {
     "uk_ipa": "/ˌdʒʌstɪfɪˈkeɪʃn/",
     "us_ipa": "/ˌdʒʌstɪfɪˈkeɪʃn/",
@@ -3350,9 +5723,9 @@
       "He was getting angry—and with some justification."
     ],
     "meanings": [
-      "the act or an instance ofjustifyingsomething:vindication",
-      "an acceptable reason for doing something:something that justifies an act or way of behaving",
-      "the act, process, or state of being justified by God (seejustifysense 2a)"
+      "The act or an instance ofjustifyingsomething:vindication",
+      "An acceptable reason for doing something:something that justifies an act or way of behaving",
+      "The act, process, or state of being justified by god (seejustifysense 2a)"
     ],
     "synonyms": [
       "excuse",
@@ -3371,9 +5744,9 @@
       "His fears proved justified."
     ],
     "meanings": [
-      "having or shown to have a just, right, or reasonable basis",
-      "aligned evenly at the margin",
-      "made even by spacing lines of text"
+      "Having or shown to have a just, right, or reasonable basis",
+      "Aligned evenly at the margin",
+      "Made even by spacing lines of text"
     ],
     "synonyms": [
       "reasonable",
@@ -3399,9 +5772,9 @@
       "Her success had justified the faith her teachers had put in her."
     ],
     "meanings": [
-      "to prove or show to bejust, right, or reasonable",
-      "to show to have had a sufficient legal reason",
-      "to qualify (oneself) as a surety (seesuretysense 3) by taking oath to the ownership of sufficient property"
+      "To prove or show to bejust, right, or reasonable",
+      "To show to have had a sufficient legal reason",
+      "To qualify (oneself) as a surety (seesuretysense 3) by taking oath to the ownership of sufficient property"
     ],
     "synonyms": [
       "explain",
@@ -3426,9 +5799,9 @@
       "to be justly proud of something"
     ],
     "meanings": [
-      "having a basis in or conforming to fact or reason:reasonable",
-      "conforming to a standard of correctness:proper",
-      "faithful to an original"
+      "Having a basis in or conforming to fact or reason:reasonable",
+      "Conforming to a standard of correctness:proper",
+      "Faithful to an original"
     ],
     "synonyms": [
       "exactly",
@@ -3454,9 +5827,9 @@
       "a jutting chin"
     ],
     "meanings": [
-      "to extend out, up, or forward:project",
-      "to cause to project",
-      "something that juts:projection"
+      "To extend out, up, or forward:project",
+      "To cause to project",
+      "Something that juts:projection"
     ],
     "synonyms": [
       "projection",
@@ -3478,9 +5851,9 @@
     "us_ipa": "/dʒuːt/",
     "examples": [],
     "meanings": [
-      "the glossy fiber of either of two Asian plants (Corchorus olitoriusandC. capsularis) of the linden family used chiefly for sacking, burlap, and twine",
-      "a plant producing jute",
-      "a member of a Germanic people invading England from the Continent and settling in Kent in the fifth century"
+      "The glossy fiber of either of two asian plants (corchorus olitoriusandc. capsularis) of the linden family used chiefly for sacking, burlap, and twine",
+      "A plant producing jute",
+      "A member of a germanic people invading england from the continent and settling in kent in the fifth century"
     ],
     "synonyms": [],
     "antonyms": []
@@ -3494,9 +5867,9 @@
       "What can be done to help these juvenile delinquents turn away from crime?"
     ],
     "meanings": [
-      "physiologicallyimmatureor undeveloped:young",
-      "of, relating to, characteristic of, or suitable for children or young people",
-      "of or relating to young people who have committed or are accused of committing a criminal offense"
+      "Physiologicallyimmatureor undeveloped:young",
+      "Of, relating to, characteristic of, or suitable for children or young people",
+      "Of or relating to young people who have committed or are accused of committing a criminal offense"
     ],
     "synonyms": [
       "young",
@@ -3520,8 +5893,8 @@
       "In the exhibition, abstract paintings are juxtaposed with shocking photographs."
     ],
     "meanings": [
-      "to place (different things) side by side (as to compare them or contrast them or to create an interesting effect)",
-      "to place side by side"
+      "To place (different things) side by side (as to compare them or contrast them or to create an interesting effect)",
+      "To place side by side"
     ],
     "synonyms": [
       "combine",
@@ -3539,9 +5912,9 @@
       "the juxtaposition of realistic and surreal situations in the novel"
     ],
     "meanings": [
-      "the act or an instance of placing two or more things side by side often to compare or contrast or to create an interesting effect",
-      "the state of being so placed",
-      "the act or an instance of placing two or more things side by side"
+      "The act or an instance of placing two or more things side by side often to compare or contrast or to create an interesting effect",
+      "The state of being so placed",
+      "The act or an instance of placing two or more things side by side"
     ],
     "synonyms": [
       "proximity",
@@ -3554,5 +5927,15 @@
       "distance",
       "remoteness"
     ]
+  },
+  "jv": {
+    "uk_ipa": "/ˌdʒeɪ ˈviː/",
+    "us_ipa": "/ˌdʒeɪ ˈviː/",
+    "examples": [],
+    "meanings": [
+      "Junior varsity"
+    ],
+    "synonyms": [],
+    "antonyms": []
   }
 }
